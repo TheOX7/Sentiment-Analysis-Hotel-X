@@ -12,7 +12,7 @@ url_editor = "https://www.linkedin.com/in/marselius-agus-dhion-374106226/"
 st.markdown(f'Streamlit App by [Marselius Agus Dhion]({url_editor})', unsafe_allow_html=True)
 
 # Membaca dataset
-df = pd.read_csv('D:\Bobobox\merged_file.csv')
+df = pd.read_csv('merged_file.csv')
 
 with st.sidebar:
     st.write('Filter Based on pod_type & source')
