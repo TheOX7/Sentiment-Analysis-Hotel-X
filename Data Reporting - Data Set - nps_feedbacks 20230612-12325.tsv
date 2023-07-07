@@ -1,0 +1,1001 @@
+nps_score	checkin_date	checkout_date	created_at	source	order_id	hotel_name	pod_type	nps_review
+9	2023-06-11 0:00:00	2023-06-12 0:00:00	2023-06-12 1:04:16	iOS	10111686471706115	Bobobox Tanah Abang	Earth Single	Ok banget
+9	2023-06-10 23:00:00	2023-06-11 23:00:00	2023-06-12 1:03:35	iOS	10231686397047518	Bobocabin Kintamani 	Deluxe Cabin	tempatnya bagus, tenang, nyaman.
+9	2023-06-11 0:00:00	2023-06-12 0:00:00	2023-06-12 0:35:32	Android	10261686397587252	Bobocabin Baturraden	DELUXE CABIN	OKOK
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-11 17:54:34	iOS	10041685503006870	Bobobox Pancoran	Earth Double	Please improve staff to be more active and diligent 
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-11 16:02:58	iOS	10141686316703874	Bobobox Slamet Riyadi Solo	Sky Double	nice
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 15:30:00	Android	10241685981041877	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Semuanya enak dari kamar dan suasananya + pelayananya mantap ramah" Semua.  Minus tidak ada TV dan kaca di dalam kamar ❤  Next bakal balik lagi. Sukses terus bobocabin
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 13:13:53	Android	10271684980744618	Bobocabin Padusan	DELUXE CABIN	Lebih dijaga kebersihannya
+9	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-06-11 8:58:00	iOS	10091683798415659	Bobobox Kota Lama	Earth Double	love this place
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-11 8:57:37	iOS	10091685356772659	Bobobox Kota Lama	Earth Double	recommended
+8	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-11 7:08:50	Android	10001685502274320	Bobobox Paskal	SKY DOUBLE	Colokan tuk charger hp hanya ada 1 colokan di pod 27 kamar sky double. Tuk lainnya sih aman, bersih, nyaman.
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 7:07:06	Android	10071685499274712	Bobobox Alun-Alun Bandung	SKY DOUBLE	Stop kontak tuk charger hp agak error di pod 35, mohon diperbaiki. Makasih tuk lainnya bagus & nyaman.
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-11 7:04:13	iOS	10181685609725124	Bobobox Mega Bekasi	Sky Double	goodjob
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:52:51	Android	10121686368580945	Bobobox Juanda Jakarta	SKY DOUBLE	Great
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:36:09	Android	10171685778173908	Bobocabin Ranca Upas	STANDARD CABIN	Terima kasih banyak semuanya kamar bersih dan wangi, next time kembali lagi kesini. Terima kasih juga buat kang Asep yang handle check in pelayanannya mantap banget. Terima kasih banyak semuanya sangat membantu banget. See you
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:33:33	Android	10171685776728614	Bobocabin Ranca Upas	STANDARD CABIN	Terima kasih banyak atas pelayanannya, terutama kang Asep pas check in dibantu dijelaskan fitur" nya, soalnya baru pertama kali stay di bobocabin, dan terima kasih juga atas pelayanan kang Dede sangat membantu kami, kamarnya wangi dan bersih, next time saya staycation disini lagi. Terima kasih banyak
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:24:30	Android	10091686148065364	Bobobox Kota Lama	SKY SINGLE	So comfort and modern
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:15:45	iOS	10241685969031977	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Air shower kecil
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:10:04	iOS	10191685806438115	Bobocabin Cikole	Standard Cabin	Airnya suka mati, mungkin bisa diinfokan kalau mau mati 
+7	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:09:46	Android	10271686138638641	Bobocabin Padusan	DELUXE CABIN	nice and unique experience with pine forest ambience. however need to improve on the slow wifi and coziness of pillow and mattress
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:07:52	Android	10271686300018861	Bobocabin Padusan	DELUXE CABIN	Bagus hanya saja akses jalan di bobocabin yg bergeronjal. Dan di depan teras yg material nya batu sehingga sakit di kaki ketika berjalan. Kebetulan saya tidak memakai sandal yg empuk.
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:05:51	iOS	10241685930798961	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Sayang kamar mandinya ada bau kurang sedap, sisanya oke..
+7	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:05:23	Android	10111686417577254	Bobobox Tanah Abang	SKY DOUBLE	Nyaman bersih rapi
+6	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:03:19	iOS	10211685898164041	Bobobox Alun-Alun Malang	Sky Double	there a lot of stain on bedsheet
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 5:01:48	Android	10251683022652416	Bobocabin Coban Rondo Malang	EXECUTIVE CABIN	Best view
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:58:44	Android	10251686312740740	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	The best
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:58:13	Android	10251686312740740	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	The best
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:57:32	Android	10241685595441164	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Air hangatnya di bykin, jendelanya benerin, sediain galon, speakernya kurang gede suaranya dan tolong sediain tv
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:56:45	Android	10251686312740740	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	The best
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:54:50	Android	10211686064243206	Bobobox Alun-Alun Malang	SKY SINGLE	Tempat yg cukup nyaman dan memberikan pengalaman baru dengan modernisasinya
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:54:22	Android	10141686322134340	Bobobox Slamet Riyadi Solo	SKY DOUBLE	Seruu
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:52:06	iOS	10061686230460123	Bobobox Kebayoran Baru	Earth Single	Nyaman
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:48:59	Android	10261686094149664	Bobocabin Baturraden	EXECUTIVE CABIN	Mantaabbbbb
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:47:42	iOS	10241685700259222	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Kurang luas kamar nyaa,,, tp okelaah
+7	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:46:48	Android	10201686390819761	Bobocabin Signature Toba	DELUXE CABIN	U
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:46:43	Android	10271686306575588	Bobocabin Padusan	DELUXE CABIN	Thanks all the best
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:37:39	iOS	10061686365801876	Bobobox Kebayoran Baru	Sky Double	Good
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:36:59	Android	10241685971898952	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Next harga room include dgn breakfast... Asli keren pas wkt mlm dingin banget. Segera buka tempat minum kopi... Caffe.... sukses selalu...
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:35:01	Android	10351686307965539	Bobocabin Madasari Pangandaran	EXECUTIVE CABIN	Untuk cabinnya nyaman, indah, view langsung ke pantai cuman kurang penerangan mulai dari gerbang masuk
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:30:18	iOS	10031686322389456	Bobobox Dago	Sky Double	As always i choose bobobox 
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:29:22	iOS	10241684153341493	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Staycation disini menyenangkan, bbq oke, petugasnya baik dan ramah, view di cabin 4 tidak mengecewakan. Cuma jaringan kurang bagus dan wifi putus nyambung. Selain itu udah oke banget. Kalo pake springbed dan water heaternya bisa tahan lama much better. Sarannya di tempat sampah dikasih plastik biar lebih higienis dan yang bersihin gampang. Next time bisa kesini lagi
+10	2023-05-18 0:00:00	2023-05-19 0:00:00	2023-06-11 4:29:02	Android	10081684395155580	Bobobox Kota Tua	SKY DOUBLE	Good
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:28:42	Android	10081686240036281	Bobobox Kota Tua	SKY DOUBLE	Good
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:25:54	iOS	1.00717E+16	Bobobox Alun-Alun Bandung	Sky Double	really enjoy the trip
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:23:11	iOS	10091686395493765	Bobobox Kota Lama	Earth Double	pelayanan ramah, toilet juga bersih, recomend kalo mau nginep di semarang
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 4:18:46	iOS	10241685442913540	Bobocabin Puncak Gunung Mas	Executive Cabin	Nyaman unutk kamu mager, susannya enak buat healing. Tp yg kurang gak ad kopi sma lemari pendingin aja sii. So far, all good.
+0	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:59:41	iOS	10231686380023954	Bobocabin Kintamani 	Deluxe Cabin	Messed up lighting system, cant off properly. Door lock not working properly. Not worth the price 
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:57:06	Android	10031686367761648	Bobobox Dago	EARTH DOUBLE	Ok
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:56:01	iOS	10001686321797041	Bobobox Paskal	Earth Double	Aku suka lampu dan teknologinya Cuman agak bau aja kamarnya But sofar ok
+7	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:53:51	Android	10001686408812670	Bobobox Paskal	SKY DOUBLE	Bau
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:52:27	Android	10241684050638754	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Perlu di tambahkan sendok untuk nagdum teh di setiap cabin
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:37:19	Android	1.01317E+16	Bobobox Malioboro	EARTH DOUBLE	Good service
+8	2023-06-09 23:00:00	2023-06-10 23:00:00	2023-06-11 3:33:11	iOS	10231686380884863	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Hot Tub di Cabin no 2 tidak bisa digunakan. Mohon diperbaiki
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:25:42	iOS	10351686280752605	Bobocabin Madasari Pangandaran	Deluxe Cabin	Love in place,,amazing,,
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:24:51	iOS	10191682503935953	Bobocabin Cikole	Executive Cabin	Bed material is itchy
+9	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 3:15:39	Android	10061686387144815	Bobobox Kebayoran Baru	SKY DOUBLE	Tidak diberikan air minum
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 2:59:00	iOS	10061686405265382	Bobobox Kebayoran Baru	Sky Double	Ok
+8	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 2:53:46	iOS	10141686073019351	Bobobox Slamet Riyadi Solo	Earth Double	Toilet can be cleaner especially the shower room walls Music in the common area was played loudly until 12am, door of the pods area were open too so it was a bit noisy from inside Thankfully the host was very prompt and turned the music off immediately A bit of time to wait for the hot water  Overall it was a pleasant stay, comfy bed and pillow. Clean pod The whole area smells nice
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 2:44:45	Android	10121686209816196	Bobobox Juanda Jakarta	EARTH DOUBLE	Thank you
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 2:39:10	Android	10231686361237962	Bobocabin Kintamani 	DELUXE CABIN	Semoga aksesnya diperbaiki. Selebihnya sudah oke banget. Ga ada masalah dengan insects..masih bearable😊
+9	2023-06-09 0:00:00	2023-06-11 0:00:00	2023-06-11 2:24:28	iOS	10221684290521159	Bobobox ITC Kuningan	Sky Double	Bed abit dusty  Toilet is clean Location is good, near to lotte mall Will come back again
+10	2023-06-10 0:00:00	2023-06-11 0:00:00	2023-06-11 2:06:35	Android	10061686403384809	Bobobox Kebayoran Baru	SKY DOUBLE	Best
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-11 1:05:24	Android	10271686239131178	Bobocabin Padusan	EXECUTIVE CABIN	Nice facilities
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-10 22:18:21	iOS	10041685678068393	Bobobox Pancoran	Earth Double	1. Toiletnya bnyak yg rusak 2. Kasur kurang empuk
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-06-10 16:01:01	Android	10141685174589477	Bobobox Slamet Riyadi Solo	EARTH DOUBLE	Terimakasih
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-10 14:36:55	iOS	10231684599354359	Bobocabin Kintamani 	Deluxe Cabin	nature and chill. recommended staycation @kintamani bali
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 12:51:47	Android	10171685784999473	Bobocabin Ranca Upas	STANDARD CABIN	Good, nyaman
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 10:38:19	Android	10331686285468138	Bobocabin Ubud	DELUXE CABIN	Semuananya keren
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 9:56:16	iOS	10331686272080369	Bobocabin Ubud	Executive Cabin	Swift response, clean, and comfort
+9	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 9:14:43	iOS	10001686297653520	Bobobox Paskal	Earth Double	first time nyoba bobobox ini. cocok buat istirahat sebentar, cm agak gak nyaman aja sama yg tidur diatas karena kalau gerak bunyi hihi so far good
+7	2023-05-10 0:00:00	2023-05-11 0:00:00	2023-06-10 7:58:37	iOS	10041683702934908	Bobobox Pancoran	Earth Double	Tolong ya toilet lakilaki nya diperbaiki. Masa cmn 1 yang bisa dipake :(
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 6:41:19	iOS	10331686272080369	Bobocabin Ubud	Executive Cabin	Pelayanan responsif
+9	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 5:50:59	Android	10121686274127747	Bobobox Juanda Jakarta	SKY DOUBLE	Mantapp pelayanannya oke, extend sampe seminggu bisa ganti kamar klo sudah kotor. Next ada dinas luar lagi bakal pake bobobox juanda 👍🏻
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 5:31:39	Android	10121686215021476	Bobobox Juanda Jakarta	EARTH DOUBLE	Pelayanan ramah bgt. Kasurnya nyaman bikin betah lama2 di pod 😁😁😁 makanya tiap ke jakarta pasti selalu pilih bobobox juanda. Udah top
+9	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 5:05:12	Android	10271686212783988	Bobocabin Padusan	DELUXE CABIN	Good, but stock makanan jangan sampai sold out lagi yaa Terimakasihhhhhhhhhhhhhhh
+3	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 5:01:38	Android	10211686312217177	Bobobox Alun-Alun Malang	SKY DOUBLE	disuruh bayar charge padahal nodanya bukan kesalahan saya
+8	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:55:06	iOS	10141686212886547	Bobobox Slamet Riyadi Solo	Earth Double	AC nya kurang dingin
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:46:23	iOS	10191686284889870	Bobocabin Cikole	Deluxe Cabin	Everything nice
+10	2023-06-08 0:00:00	2023-06-10 0:00:00	2023-06-10 4:45:08	Android	10221685098404432	Bobobox ITC Kuningan	SKY SINGLE	Reccomend buat yg mau bisnis trip👍 thank's  for stay best exeperince bobobox ITC
+9	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:41:05	iOS	10141686217785954	Bobobox Slamet Riyadi Solo	Earth Double	di bobobox emang ternyaman, bersih bgt semuanya, gercep juga hostnya kalo misal kita need something, cuman sayangnya semalem tidurku kurang nyenyak, soalnya pod atasku berisik, tapi bobobox tetep best
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:41:02	Android	10271686215668115	Bobocabin Padusan	DELUXE CABIN	Tempat nyaman, staff ramah, bersih
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:40:13	iOS	10111686298020646	Bobobox Tanah Abang	Sky Single	Thankyou
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:35:03	Android	10061686336391410	Bobobox Kebayoran Baru	SKY DOUBLE	Goof
+7	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:32:35	Android	10241686270487535	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Dicek fungsi fasilitas ruangan, kamar mandi tidak mengunci
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:30:30	iOS	10271686049679846	Bobocabin Padusan	Deluxe Cabin	Niceee 9,5/10
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 4:28:50	iOS	10221686196607772	Bobobox ITC Kuningan	Earth Double	ok
+10	2023-06-07 0:00:00	2023-06-10 0:00:00	2023-06-10 4:22:18	iOS	10221684545396835	Bobobox ITC Kuningan	Earth Single	ok
+10	2023-06-08 23:00:00	2023-06-09 23:00:00	2023-06-10 4:11:52	iOS	10331686193216909	Bobocabin Ubud	Deluxe Cabin Hot Tub	sangat recommended, staff dan service baikk
+10	2023-06-08 23:00:00	2023-06-09 23:00:00	2023-06-10 4:09:21	iOS	10231686236666376	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Very nice hot tub. Amazing cabin. Very modern. Comfortable even for a City person.
+9	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 3:58:26	Android	10271686133598555	Bobocabin Padusan	EXECUTIVE CABIN	Saya menikmati pemandangan tempat saya biasa camping fengan fasilitas lebih modern dan nyaman
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 3:38:50	Android	10211686327923873	Bobobox Alun-Alun Malang	SKY DOUBLE	ok bgt
+7	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 3:34:28	iOS	10171686192902050	Bobocabin Ranca Upas	Standard Cabin	lebih banyak kamar mandi/toilet
+8	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-06-10 3:34:11	Android	10141684570743707	Bobobox Slamet Riyadi Solo	SKY DOUBLE	fasilitas nya cukup bagus tapi pelayanan nya kurang ramah
+10	2023-06-08 0:00:00	2023-06-10 0:00:00	2023-06-10 3:30:41	iOS	10351685596195761	Bobocabin Madasari Pangandaran	Deluxe Cabin	Recomended dengan privat beach.
+10	2023-06-08 23:00:00	2023-06-09 23:00:00	2023-06-10 2:55:15	iOS	10231683620401961	Bobocabin Kintamani 	Deluxe Cabin	SUPER KEREN PENGALAMANNYA! Pemandangannya bagus banget. Service lengkap dan cepat. Thank you.
+10	2023-06-08 23:00:00	2023-06-09 23:00:00	2023-06-10 2:54:15	iOS	10231683620255915	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Service keren! Semua yang kita request bisa disediakan dan dengan cepat! Pemandangannya bukan kaleng kaleng, JUARA BANGETTTTTTT!!! Thank you ya for this super great experience!
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 2:44:20	iOS	10091686344678420	Bobobox Kota Lama	Earth Double	Good
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 2:43:06	iOS	10171685279897882	Bobocabin Ranca Upas	Deluxe Cabin 	Good place
+8	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 1:01:18	Android	10191685543252649	Bobocabin Cikole	DELUXE CABIN	Good place
+10	2023-06-09 0:00:00	2023-06-10 0:00:00	2023-06-10 0:27:46	Android	10331681481898111	Bobocabin Ubud	DELUXE CABIN	Everything was nice, thanks
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-06-09 23:40:54	Android	10261685249180323	Bobocabin Baturraden	DELUXE CABIN	Only need to check the quality of the Wifi connection since to open the room door has to open the Barcode from the Bob's Application and we faced couples of trouble to open the room due to network/wifi connection is too weak and had to walk down to front desk and walk up again, it was hectic and definitely not comfortable. Thank you
+10	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-06-09 22:24:34	iOS	10001684286806560	Bobobox Paskal	Earth Double	enjoy
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 15:42:16	iOS	10241686071924651	Bobocabin Puncak Gunung Mas	Deluxe Cabin	sesuai pesaanan minta kamar view gunung langsung dikasih, liburan yg seru dibobocabin bisa memanjakan mata. makasih bobocabin
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 15:17:14	Android	10181686214821179	Bobobox Mega Bekasi	SKY SINGLE	Oke
+10	2023-05-12 0:00:00	2023-05-13 0:00:00	2023-06-09 13:57:20	Android	10071683736769926	Bobobox Alun-Alun Bandung	SKY DOUBLE	Happy
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 13:20:10	iOS	10121686187846480	Bobobox Juanda Jakarta	Sky Single	Good
+10	2023-05-16 0:00:00	2023-05-17 0:00:00	2023-06-09 12:20:09	Android	10271683794478537	Bobocabin Padusan	DELUXE CABIN	Good
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-06-09 12:11:50	iOS	10111685166652802	Bobobox Tanah Abang	Earth Double	Mntp
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 12:03:06	Android	10221686197540522	Bobobox ITC Kuningan	SKY SINGLE	Service at the reception desk to customers is very helpful, easy to understand and friendly. The mushalla facilities are very clean and comfortable. Clean restrooms. Highly recommended for a quiet and comfortable stay
+8	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 11:21:50	iOS	10241686196478490	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Matras terlalu keras for me, harusnya ada matras protector yah supaya bisa more comfy
+10	2023-06-04 0:00:00	2023-06-09 0:00:00	2023-06-09 10:29:54	Android	10221685873226406	Bobobox ITC Kuningan	SKY DOUBLE	Enjoyed my stay but experienced power failure a few times.
+8	2023-05-13 0:00:00	2023-05-14 0:00:00	2023-06-09 10:28:34	Android	10241682562596986	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Kurang nyaman karena banyak sela sela pintu dan cendela yang terbuka sehingga memungkinkan sekali serangga masuk ke dalam cabin
+7	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-09 7:53:17	Android	10041685555133187	Bobobox Pancoran	SKY DOUBLE	Toilet banyak yg gabisa dikunci sad
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-06-09 7:52:59	Android	10041685117988763	Bobobox Pancoran	SKY DOUBLE	Toiletnya banyak yang gabisa di kunci, tolong di benerin dong
+9	2023-06-04 0:00:00	2023-06-09 0:00:00	2023-06-09 7:06:27	Android	10221685873226406	Bobobox ITC Kuningan	SKY DOUBLE	Having quality time and enjoy my working days in Bobobox.. Thanks..
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-09 7:05:00	iOS	10241686133106516	Bobocabin Puncak Gunung Mas	Deluxe Cabin	sayangnya ga ada braekfast nya
+10	2023-06-06 0:00:00	2023-06-09 0:00:00	2023-06-09 6:33:59	Android	10121686034567334	Bobobox Juanda Jakarta	EARTH DOUBLE	For the third time i'm staying here, overall the facilities are good, but it'll be better if the longstay packages (especially for the guest who wants to stay 3 or 5 nights),  available for everyday, even on the weekend, not only on weekdays. Thank you.
+10	2023-06-06 0:00:00	2023-06-09 0:00:00	2023-06-09 5:56:24	iOS	10031686020190675	Bobobox Dago	Earth Double	Sangat memuaskan nginep di bobobox Dago diantara 4cabang di bandung pelayanan terbauk bobobox Dago (: 
+10	2023-06-07 0:00:00	2023-06-09 0:00:00	2023-06-09 5:49:19	Android	10061685685345099	Bobobox Kebayoran Baru	EARTH DOUBLE	nice
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 5:37:23	Android	10201685783844937	Bobocabin Signature Toba	DELUXE CABIN	Fun camping..
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 5:35:00	Android	10241686213586223	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Nice
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 5:10:49	Android	10041686211686925	Bobobox Pancoran	EARTH DOUBLE	Good
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:57:33	Android	10241686093516470	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Good
+8	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:54:33	Android	10121686195503186	Bobobox Juanda Jakarta	EARTH DOUBLE	Aku mau ngasih saran Kak, di comunal space kalau bisa ditaro lap untuk mengelap meja atau mengelap perabotannya Kak, thank youu
+8	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:49:34	iOS	10091686201456118	Bobobox Kota Lama	Earth Double	There a bugs in my room 
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-09 4:47:43	Android	10081685599143319	Bobobox Kota Tua	SKY DOUBLE	Mantap
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:40:35	Android	10031686221297328	Bobobox Dago	EARTH DOUBLE	one of the best Bobobox in Bandung, good services.
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:39:39	iOS	10221686198995267	Bobobox ITC Kuningan	Sky Double	Ok
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:38:56	iOS	10131685915786280	Bobobox Malioboro	Earth SIngle	The communal room is super cool!
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:13:48	Android	10081686161696557	Bobobox Kota Tua	EARTH DOUBLE	Kamar bersih wangi, pelayanan ramah
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 4:08:09	Android	10081685963766385	Bobobox Kota Tua	EARTH DOUBLE	Good
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-09 3:59:26	Android	10141685908915419	Bobobox Slamet Riyadi Solo	SKY SINGLE	Good jobs
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 3:57:57	iOS	10031686113849590	Bobobox Dago	Earth Double	Enakkk bangett mantapppppp
+10	2023-06-07 23:00:00	2023-06-08 23:00:00	2023-06-09 3:37:14	iOS	10231686214417931	Bobocabin Kintamani 	Deluxe Cabin	Good place
+10	2023-06-07 0:00:00	2023-06-09 0:00:00	2023-06-09 3:19:08	iOS	10241685934809189	Bobocabin Puncak Gunung Mas	Executive Cabin	We had a very good experience here. Our cabin view is very mesmerizing. The service is also amazing, they very helpful and friendly. Definitely will go back here for another vacation.
+10	2023-06-07 23:00:00	2023-06-08 23:00:00	2023-06-09 3:12:56	iOS	10231686158437569	Bobocabin Kintamani 	Deluxe Cabin	Nice
+7	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 2:49:30	Android	10241686220849903	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Muncul beberapa kecoa
+10	2023-06-07 23:00:00	2023-06-08 23:00:00	2023-06-09 2:34:45	iOS	10231686125841697	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Good glamping stay experience
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 2:34:38	iOS	10351686143863339	Bobocabin Madasari Pangandaran	Deluxe Cabin	sangat puas nyaman sekali
+10	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-06-09 2:13:38	Android	10031684899274397	Bobobox Dago	EARTH DOUBLE	Great
+10	2023-06-06 0:00:00	2023-06-09 0:00:00	2023-06-09 1:24:17	Android	10121685939643704	Bobobox Juanda Jakarta	EARTH SINGLE	Room inkl. Bathroom was very clean, Staff was friendly, Hostel was in a very good location, access was easy
+9	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 1:24:00	iOS	10091685600902144	Bobobox Kota Lama	Earth Single	very clean, prime location, need to improve for breakfast option
+10	2023-06-07 0:00:00	2023-06-09 0:00:00	2023-06-09 0:55:19	iOS	10081685985980778	Bobobox Kota Tua	Earth Double	nyaman
+5	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 0:40:04	iOS	10241681076252526	Bobocabin Puncak Gunung Mas	Executive Cabin	I wasted two hours of my time because the air conditioning unit was out of order
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-09 0:30:09	Android	10061686193692672	Bobobox Kebayoran Baru	SKY SINGLE	It was nice. But please automated volume down for introduction check in after 10 pm. Sometimes it was intupt my sleep because the sound of introduction when people check in
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-08 23:15:45	iOS	10171682741929358	Bobocabin Ranca Upas	Standard Cabin	Dapur kotor
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-08 23:15:11	iOS	10171682741402645	Bobocabin Ranca Upas	Standard Cabin	Semua bersih kecuali dapur. Dapur pengap dan kotor sekali. Terutama di sink
+10	2023-06-08 0:00:00	2023-06-09 0:00:00	2023-06-08 22:55:39	Android	10231683561881973	Bobocabin Kintamani 	DELUXE CABIN	Host freindly and great service
+7	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-08 16:36:09	iOS	10211685936603848	Bobobox Alun-Alun Malang	Sky Double	Saya dapat selimut dan bantal kotor masih ada bercak darah , kualitas kasur sangat tidak nyaman terlalu keras 
+7	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-08 16:24:28	Android	10001685379739878	Bobobox Paskal	EARTH DOUBLE	tembok capsulenya agak retak, pintunya juga sedikit bermasalah, AC-nya tidak dingin seperti biasanya, toiletnya rusak. semoga kedepannya bisa lebih diperbaiki lagi dan bisa nyaman seperti dulu :)
+10	2023-06-05 0:00:00	2023-06-08 0:00:00	2023-06-08 12:28:22	Android	10221685953619795	Bobobox ITC Kuningan	EARTH DOUBLE	5*
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 10:11:42	iOS	10241685973463868	Bobocabin Puncak Gunung Mas	Deluxe Cabin	untuk hairdryer yg tiba2 mati , air panas jg yg ga sllu ada , jd ada waktu nya gitu kl habis ,air panas isi 120menit.  untuk hrg kamar yg 800an, ga pake tv seharusnya untuk air hrs selalu ada panas dan dingin. sm wifi aja sih yg agak jelek. overall oke , pasti bakal balik lagi sih. kamar nya seru walau kasurnya agak keras:)
+9	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 10:09:05	Android	10071686043026655	Bobobox Alun-Alun Bandung	EARTH SINGLE	Sabun bau aneh, hanya di lt 3
+7	2023-05-18 0:00:00	2023-05-20 0:00:00	2023-06-08 9:18:07	Android	10071683505838604	Bobobox Alun-Alun Bandung	SKY DOUBLE	Water system was broken during my stay. Not all bathroom functioning. The AC in my pod too cold at first. Then its not working at all
+7	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-08 8:47:54	Android	10041686049487510	Bobobox Pancoran	EARTH DOUBLE	LIFT MATI
+7	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 8:47:39	Android	10041686108329797	Bobobox Pancoran	EARTH DOUBLE	LIFT NYA MATI. KASIAN BUAT PEREMPUAN , BUAT NAIK TURUN LWT TANGGA ..   APA LG KALO YG LAGI HAMIL!
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 7:50:07	Android	10061686123472392	Bobobox Kebayoran Baru	SKY DOUBLE	Toilet laki laki di lantai 1, salah satu tempat mandi nya ada yg mampet, jdi air gk bisa ngalir, selebihnya kaya biasa, sip
+10	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-06-08 7:25:59	Android	10111683786288751	Bobobox Tanah Abang	EARTH DOUBLE	X
+8	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 6:43:53	Android	10001686072308683	Bobobox Paskal	SKY DOUBLE	Ac
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 6:36:05	iOS	10351686053877946	Bobocabin Madasari Pangandaran	Deluxe Cabin	Terbaikkk pokoknyaa
+6	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 6:23:32	iOS	10221685968074867	Bobobox ITC Kuningan	Earth Double	Tolilet bau pesing, di kasur banyak rambut
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 5:40:39	Android	10071685973914422	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Security nya sopan dan baik, FO nya juga baik & sopan, sigap menjawab chat di aplikasi ketika saya membutuhkan keperluan saya. Untuk lainnya baik & bagus, dapat diskon jadi lumayan banget potongnya. Terbaik recommended, terimakasih  🙏🏻
+9	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 5:31:25	Android	10061686116728659	Bobobox Kebayoran Baru	SKY DOUBLE	Mungkin harus sedia in juga colokan yang 2 kaki
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 5:06:31	Android	10351686057613321	Bobocabin Madasari Pangandaran	DELUXE CABIN	Mantapp pelayanan baik bangett, staff ramah semuaa.
+7	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 5:00:45	Android	10191686055586852	Bobocabin Cikole	EXECUTIVE CABIN	Seprai dan bedding nya agak bau apek, mungkin perlu ada dehumidifier biar gk lembab
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 4:52:09	Android	10091685956913512	Bobobox Kota Lama	SKY SINGLE	Enak tempatnya, nyaman dipake tidur fasillitas yang ditawarkan oke sekali bikin betah pokoknya!
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 4:50:42	Android	10221685968074867	Bobobox ITC Kuningan	EARTH DOUBLE	mantap nyaman, bersih, tenang. cuma kalo kita mesen yg earth trus diatas nya ada yg sky itu agak berisik dikit kedengeran sampebyg ke earth. sama toilet cewe nya agak bau
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 4:34:00	Android	10181686029447904	Bobobox Mega Bekasi	EARTH DOUBLE	perfect
+10	2023-06-06 23:00:00	2023-06-07 23:00:00	2023-06-08 4:22:44	iOS	10231684427067375	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Udara n view
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 4:17:53	Android	10231685878051043	Bobocabin Kintamani 	DELUXE CABIN	Enjoy the tech! But sadly, not all food are available and the way lil bit difficult to access. But overall it all amazing for stay here, the view and vibe was fascinating!!
+8	2023-06-06 23:00:00	2023-06-07 23:00:00	2023-06-08 4:11:35	iOS	10331686022480023	Bobocabin Ubud	Deluxe Cabin Hot Tub	It was great, but the hot water in the shower ran out in less than 5 minutes and the breakfast was very small. Everything else was amazing though 
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 4:09:56	Android	10231684072540903	Bobocabin Kintamani 	DELUXE CABIN	Nice place to staycation with nature view
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 4:03:50	iOS	1.00017E+16	Bobobox Paskal	Earth Double	Good toilet
+9	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-08 3:58:34	iOS	10081685244396681	Bobobox Kota Tua	Earth Single	love 
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-06-08 3:58:25	iOS	10081685153301779	Bobobox Kota Tua	Sky Single	love stay here 
+8	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-06-08 3:58:07	iOS	10111684852329768	Bobobox Tanah Abang	Earth Single	I love stay in here but ... cause pods divide 2 floor it make me uncomfort 
+8	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 3:53:43	Android	10351686027269535	Bobocabin Madasari Pangandaran	DELUXE CABIN	Sering mati lampu
+4	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-08 3:42:34	Android	10191682867471906	Bobocabin Cikole	STANDARD CABIN	water heater didnt work. bad wifi connection
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 3:23:59	Android	10121686131242672	Bobobox Juanda Jakarta	EARTH DOUBLE	👍
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 3:09:14	iOS	10251682548484754	Bobocabin Coban Rondo Malang	Executive Cabin	Nice view and comfy room. It will be good if there is a tool to kill the flies
+9	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 3:00:10	iOS	10201685837665694	Bobocabin Signature Toba	Deluxe Cabin	Nice location with a beautiful view. Small room but comfy and clean. Very recommended 
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 2:52:49	iOS	10081685954735576	Bobobox Kota Tua	Earth Double	All okay 
+8	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 2:33:26	Android	10061686119385978	Bobobox Kebayoran Baru	EARTH SINGLE	Toilet cant be use, because under construction.  And the noize from other still hearing in mybed.
+7	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 2:15:04	iOS	10021685682879688	Bobobox Cipaganti	Sky Single	Wifi LAGGING, Sprei kasur dan bantal warnannya udah broken white, tegangan semprotan toilet naik turun
+8	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 1:55:09	iOS	10081685774092936	Bobobox Kota Tua	Sky Single	It was good, tapi buat di pod 29 ac nya ga sedingin pod lain, tapi ok
+10	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 0:48:34	Android	10231685594844931	Bobocabin Kintamani 	DELUXE CABIN	experience nya oke bgttttt!!!
+10	2023-06-06 0:00:00	2023-06-08 0:00:00	2023-06-08 0:33:04	iOS	10121686065829377	Bobobox Juanda Jakarta	Sky Single	Terbaik , harga bersahabat pelayanan juara dan fasilitas kamar sangat bagus plus tempat yang bersih dan nyaman
+8	2023-06-07 0:00:00	2023-06-08 0:00:00	2023-06-08 0:25:25	Android	10231685988981398	Bobocabin Kintamani 	DELUXE CABIN	Akses jalan masuk lebih diperbaiki lg
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 19:58:30	Android	10081686001400176	Bobobox Kota Tua	EARTH DOUBLE	Is really comfortable
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 17:45:21	Android	10111685985417287	Bobobox Tanah Abang	SKY SINGLE	Enak pokoknya, ruangannya pun wangi lalu kamar mandi nya pun bersih. Mantap puolll
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-07 15:29:25	iOS	10231683378919688	Bobocabin Kintamani 	Executive Cabin	there were snails from toilet and down under. and also flies
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-07 13:51:13	Android	10241684289236483	Bobocabin Puncak Gunung Mas	DELUXE CABIN	thank's pelayanan baik...
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-06-07 11:32:50	iOS	10081684839443744	Bobobox Kota Tua	Sky Single	good option
+7	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 11:12:14	Android	10211686052139729	Bobobox Alun-Alun Malang	SKY SINGLE	Air conditioner is not cool enough.
+8	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-07 11:09:02	Android	10081685505951937	Bobobox Kota Tua	EARTH DOUBLE	Banyak orang yg ga tau Semprotan toiletnya dimana. Jadi pada bau toilet nya. Staff nya juga, kalo tamu datang harusnya langsung dikasih odol dan sikat gigi Karna di kamar ga disediakan
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 10:39:41	Android	10191685963611973	Bobocabin Cikole	STANDARD CABIN	terbaik  pokonya
+10	2023-05-08 0:00:00	2023-05-09 0:00:00	2023-06-07 10:08:33	Android	10031683558783570	Bobobox Dago	SKY DOUBLE	Ok
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-07 9:54:34	Android	10271685344173163	Bobocabin Padusan	DELUXE CABIN	Mantul
+10	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-06-07 8:50:41	Android	10031684899274397	Bobobox Dago	EARTH DOUBLE	Great
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-06-07 8:21:49	Android	10181684673455719	Bobobox Mega Bekasi	EARTH SINGLE	Good, nyaman banget tidur disini
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-07 8:07:39	iOS	10221684917787699	Bobobox ITC Kuningan	Earth Single	so far so good.
+10	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-06-07 7:37:57	Android	10351683893625559	Bobocabin Madasari Pangandaran	DELUXE CABIN	Amazing view...nice bobocabin madasari
+9	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 7:18:10	iOS	10031685879067335	Bobobox Dago	Earth Double	Good
+8	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-06-07 7:04:28	Android	10031684740687065	Bobobox Dago	EARTH SINGLE	air panasnya agak lama panasnya
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-07 5:20:28	iOS	10271684288293349	Bobocabin Padusan	Deluxe Cabin	Mantul
+8	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 5:07:10	Android	10271685966130570	Bobocabin Padusan	DELUXE CABIN	Very nice ....... ok
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 5:05:59	Android	10351685514803965	Bobocabin Madasari Pangandaran	DELUXE CABIN	Kamar mandi cabin no 7 agak bau, tolong di perbaiki yaaa. Tengkyuuuuu
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 5:03:37	Android	10091686026145532	Bobobox Kota Lama	SKY SINGLE	perfect box
+9	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 5:00:47	iOS	10241685937022483	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Pengalaman yg menyenangkan..yang ga disangka, ada perlengkapan penyelamatan kayak pemadam api dan helm. Semuanya baik, kalopun ada yang ingin saya komentari mungkin kasur sebaiknya lbh empuk. Itu aja sih. Hehehe. Terima kasih.
+8	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:58:00	iOS	10171686068753382	Bobocabin Ranca Upas	Standard Cabin	Make the food price more cheaper
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:57:07	Android	10091685797983858	Bobobox Kota Lama	SKY SINGLE	Oke, nyaman, murah
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:54:07	Android	10221686059136370	Bobobox ITC Kuningan	EARTH DOUBLE	Ok
+8	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:50:17	Android	10081686001400176	Bobobox Kota Tua	EARTH DOUBLE	Tidur terasa nyaman, best!
+9	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:48:37	Android	10251686030752091	Bobocabin Coban Rondo Malang	DELUXE CABIN	Good room
+7	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:44:30	Android	10251684837996971	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	Connection wifi
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:40:11	Android	10241685521299264	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Good bgtt semuanyaa. Mba masnya jga helpfull bgt
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:35:10	Android	10071686015674931	Bobobox Alun-Alun Bandung	SKY DOUBLE	Very great bobobox alun alun  Thanks
+9	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 4:32:34	Android	10121686082388469	Bobobox Juanda Jakarta	SKY SINGLE	Bersih, nyaman, cocok untuk yang suka ngeteng
+10	2023-05-31 0:00:00	2023-06-07 0:00:00	2023-06-07 4:28:23	Android	10111685526360374	Bobobox Tanah Abang	SKY DOUBLE	all good here
+8	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-07 3:40:41	Android	10141685865069484	Bobobox Slamet Riyadi Solo	SKY DOUBLE	Bobobox has a pretty small room so i think it's better to add some air freshener and a colder air conditioner so it dont smell musty.
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-07 3:40:19	iOS	10131684828078115	Bobobox Malioboro	Sky Double	Love
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 3:37:11	iOS	10241686026617066	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Good service , excellent dan feel like home 
+9	2023-06-05 23:00:00	2023-06-06 23:00:00	2023-06-07 3:29:52	iOS	10231685874686999	Bobocabin Kintamani 	Deluxe Cabin	Sangat menarik pengalaman menginap disini. Luar biasa :)) 
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 3:28:48	Android	10061686056170861	Bobobox Kebayoran Baru	SKY DOUBLE	Selimutnya banyak bercak darah. Tolong dibersihin ato diganti aja lah. Jorok
+10	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-06-07 3:28:07	Android	10061684289917498	Bobobox Kebayoran Baru	SKY SINGLE	Selimutnya ada bercak darah banyak bgt di bagian dalemnya. Tolong dong diganti
+10	2023-05-29 0:00:00	2023-05-31 0:00:00	2023-06-07 3:26:09	iOS	10091685361284778	Bobobox Kota Lama	Sky Single	Pertahankan kualitas
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-07 3:10:25	Android	10141685519414545	Bobobox Slamet Riyadi Solo	EARTH DOUBLE	Prime
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 3:10:25	Android	10121686054566112	Bobobox Juanda Jakarta	SKY SINGLE	Wonderful stay, as always.
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-07 3:09:47	Android	10141685519516252	Bobobox Slamet Riyadi Solo	EARTH SINGLE	Toilets a bit dirty. One of the lock/hinge missing. A consideration to have long bench/rack near the wash basin might a good idea to put our clothes/things while we brush teeth/using hair dryer.
+8	2023-06-05 23:00:00	2023-06-06 23:00:00	2023-06-07 3:04:12	iOS	10331685851264448	Bobocabin Ubud	Deluxe Cabin Hot Tub	bisa dicari jalan keluar untuk akses menuju cabin, atau dihimbau dr awal untuk travel light agar barang bawaan tidak terlalu berat
+10	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 3:02:41	Android	10231685874572414	Bobocabin Kintamani 	EXECUTIVE CABIN	The view from here is spectacular , recommended if you do not want to do any trekking, simple sunrise in the morning really made your day
+9	2023-06-06 0:00:00	2023-06-07 0:00:00	2023-06-07 2:33:58	iOS	10261685963484675	Bobocabin Baturraden	Executive Cabin	Lingkungannya hebat 
+8	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 17:39:58	Android	10351684485080680	Bobocabin Madasari Pangandaran	EXECUTIVE CABIN	Lebih bagus lagi di sediakan dispenser air galon
+8	2023-05-18 0:00:00	2023-05-19 0:00:00	2023-06-06 16:47:18	Android	10211684402135694	Bobobox Alun-Alun Malang	EARTH SINGLE	Kamar lumayan nyaman, musholla nyaman, kamar mandi bersih dan showernya deras dan yang juga tidak kalah penting banyak pilihan penjual makanan disekitar bobobox. Yang membuat kurang nyaman adalah kurang kedap suara (suara gerakan dan obrolan penghuni kamar sebelah terdengar) sehingga berisik/mengganggu. Semoga bisa menjadi lebih baiik 👍
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-06 16:20:58	Android	10121685725622869	Bobobox Juanda Jakarta	EARTH DOUBLE	Good enough
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 15:18:11	Android	10071685935020522	Bobobox Alun-Alun Bandung	SKY DOUBLE	I like
+10	2023-06-01 0:00:00	2023-06-04 0:00:00	2023-06-06 14:24:39	Android	10121685593688609	Bobobox Juanda Jakarta	SKY SINGLE	Excellent
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-06 12:41:27	Android	10031685542901701	Bobobox Dago	EARTH DOUBLE	Yang dago kayanya yg paling baik. Saya liat dari tempat makan saat ada pegawai pria  mau membersihkan kamar mandi perempuan, pegawainya ketuk dulu kamar mandi dari luar. Itu sopan sekali. Tapi, saat giliran saya yang lagi di dalam kamar mandi pria, lagi cuci muka depan wastafel, kenapa pegawai perempuan langsung masuk2 aja. Kalo ternyata ada yg lagi kencing, malu lah
+7	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-06 12:30:12	iOS	10171684747521333	Bobocabin Ranca Upas	Standard Cabin	lebih baik untuk kamar mandi sharing shower nya yang bisa di gerakan karna agak sulit bawa anak kecil untuk bilas bab/bak nya... semoga kedepan toilet nya ada shower di wc dan di tempat mandi nya
+9	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 11:38:23	iOS	10181685958647605	Bobobox Mega Bekasi	Earth Double	Bersih dan bagus
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-06 11:15:24	Android	10121685332956150	Bobobox Juanda Jakarta	EARTH DOUBLE	0
+9	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 11:12:22	Android	10071685848851855	Bobobox Alun-Alun Bandung	SKY SINGLE	Cozy
+6	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-06-06 10:03:32	Android	10171681622538590	Bobocabin Ranca Upas	DELUXE CABIN	Pesen kamar dgn kamar mandi dalem, tapi ternyata lokasinya ada diatas bgt sebelahan sama hutan, pas udah sorean-maghrib ada anjing disekitar cabin, jd gaberani keluar selama di cabin meskipun kata pegawainya baik&punya warga disitu, tapi ttp aja khawatir najisnya 😓. Ditambah ketemu uler keluar dari danaunya pas siang2😭. Untuk fasilitas dlm cabinnya lumayan bagus, cuma dpt kamar yg teko nya rusak
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-06 8:43:55	Android	10141685546276379	Bobobox Slamet Riyadi Solo	SKY SINGLE	Keren
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-06 8:14:10	Android	10211685022517110	Bobobox Alun-Alun Malang	SKY SINGLE	Toilet cleanliness could be improved
+10	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-06-06 6:35:26	Android	10251679566174754	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	Lokasi yg bagus fasilitas baik bersih cocok untuk melepaskan penat udara dingin dan bersih
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 6:29:50	Android	10001685586807681	Bobobox Paskal	EARTH DOUBLE	SE NYAMAN ITU, PELAYAN NYA RAMAH RAMAH, ANTI JULID" CLUB
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-06 6:18:55	Android	10061685886917249	Bobobox Kebayoran Baru	SKY DOUBLE	Lantai 3 tolong di perhatikan lagi yaa ac kurang nyaman toilet kurang bersih dispenser rusak
+9	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 5:44:48	Android	10241685214496628	Bobocabin Puncak Gunung Mas	DELUXE CABIN	I love it! It's refreshing and close to Jakarta. My kids really enjoy the time spent, it's safe for kids & well maintained. The only downpart is the toilet inside the cabin, a bit smelly, maybe because of the air circulation. However, in general, amazing, recomended for those who want some nature vibe without nature challenges. Going to come back someday
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 5:01:38	iOS	10261685697158314	Bobocabin Baturraden	Deluxe Cabin	Nice and enjoy my stay !!!
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:57:42	iOS	10001685965123994	Bobobox Paskal	Earth Double	Nice
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:54:21	Android	10271685891911849	Bobocabin Padusan	DELUXE CABIN	All the stay were very humble. Cant wait to get back!
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:51:32	Android	10181685962226835	Bobobox Mega Bekasi	EARTH DOUBLE	Pelayan nya ramah , fasilitas sama dengan bobobox yg pernah saya kunjungi ga pernah kecewakan , toiletnya bersih banget .. pokoknya pertahankan kualitas nya ya
+9	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:50:49	iOS	10271685888373283	Bobocabin Padusan	Deluxe Cabin	Bagussss. Recomended buat healing sejenak. Minus sy menemukan 4 siput didalam kamar saya ya maklum ada di hutan pinus. Tp its ok semuanya aman
+10	2023-06-04 23:00:00	2023-06-05 23:00:00	2023-06-06 4:49:40	iOS	10231685893497986	Bobocabin Kintamani 	Deluxe Cabin	good place, pelayanannya cepet, bagus pokonya
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:49:17	iOS	10271685498327225	Bobocabin Padusan	Deluxe Cabin	Sejuk, nyaman, tenang banget
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:34:52	Android	10041685981662575	Bobobox Pancoran	SKY DOUBLE	Goood
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:32:07	Android	10121685941668124	Bobobox Juanda Jakarta	EARTH DOUBLE	Tumben kamar mandi tidak berbau
+9	2023-06-04 0:00:00	2023-06-06 0:00:00	2023-06-06 4:28:28	iOS	10131685465495826	Bobobox Malioboro	Earth SIngle	Menurut saya toilet bisa lebih ditingkatkan, karena suka ada bau kurang enak. Selebihnya sudah bagus.
+10	2023-06-03 0:00:00	2023-06-06 0:00:00	2023-06-06 4:27:23	Android	10031685704420555	Bobobox Dago	EARTH DOUBLE	Kamar bersih, sharing bathroom bersih, pelayanan sangat baik. Harga bersahabat.lokasi tengah kota. Pasti stay disini lagi kalau ke Bandung 🥰🫰
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:22:31	Android	10111685954545491	Bobobox Tanah Abang	EARTH DOUBLE	Oke banget seru
+10	2023-06-04 0:00:00	2023-06-06 0:00:00	2023-06-06 4:21:05	Android	10191684159220462	Bobocabin Cikole	DELUXE CABIN	Very good hospitality! Though the room is a bit old and needs maintenance
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:12:14	iOS	10171685664786273	Bobocabin Ranca Upas	Deluxe Cabin 	SUKAKK BGT!!!
+9	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:06:52	Android	10171685941412714	Bobocabin Ranca Upas	STANDARD CABIN	Thanks
+10	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 4:05:29	Android	10131685973535813	Bobobox Malioboro	SKY SINGLE	Hairdryer mati huhuh
+9	2023-06-04 23:00:00	2023-06-05 23:00:00	2023-06-06 4:03:10	iOS	10231685212185280	Bobocabin Kintamani 	Deluxe Cabin	Bagus , mengesankan , 
+6	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 3:48:01	Android	10231685867011958	Bobocabin Kintamani 	DELUXE CABIN	Ordered a bon fire for 35k but it ran out after 3-5 minutes haven't had the time to burn my marshmallows
+10	2023-06-04 23:00:00	2023-06-05 23:00:00	2023-06-06 3:39:28	iOS	10231685884537365	Bobocabin Kintamani 	Deluxe Cabin	Untuk tempatnya sangat bagus langsung view ke danaunya , cabinnya bersih pelayan ramah . Saya akan datang kembali ke tempat ini. LOVE IT!!!
+10	2023-06-03 0:00:00	2023-06-06 0:00:00	2023-06-06 3:32:39	Android	10141685775710486	Bobobox Slamet Riyadi Solo	EARTH SINGLE	Nyaman walaupun ambil yg single, modern dan bersih
+8	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 3:26:32	Android	10191685931575645	Bobocabin Cikole	DELUXE CABIN	(Sanitasi) Air di kamar mandinya kekuningan dan berbau.
+9	2023-06-04 23:00:00	2023-06-05 23:00:00	2023-06-06 2:26:54	iOS	10231685865805176	Bobocabin Kintamani 	Deluxe Cabin	Very amazing experience and will come back again one day
+10	2023-06-04 0:00:00	2023-06-06 0:00:00	2023-06-06 2:09:06	Android	10271684484684084	Bobocabin Padusan	DELUXE CABIN	Lampu outdoor otomatis mati jam 5 pagi, padahal masih gelap
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-06 1:59:21	Android	10171673845228215	Bobocabin Ranca Upas	EXECUTIVE CABIN	The view n the location is ammazing. We look likr sleep in the forest.
+9	2023-06-05 0:00:00	2023-06-06 0:00:00	2023-06-06 1:51:10	Android	10271685943653904	Bobocabin Padusan	DELUXE CABIN	Pelyanan sangat baik dan ramah
+10	2023-06-04 23:00:00	2023-06-05 23:00:00	2023-06-06 1:40:08	iOS	10231685110503160	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	View bagus, cabin nyaman
+7	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-06-06 0:32:58	Android	10221684538342215	Bobobox ITC Kuningan	EARTH DOUBLE	Please have a smoking area
+8	2023-06-03 0:00:00	2023-06-05 0:00:00	2023-06-05 22:49:25	iOS	10131685670290952	Bobobox Malioboro	Earth Double	Menginap bobox malioboro berkesan, lokasi di jalan malioboro dimana merupakan tempat para turis dan wisatawan berbelanja, mencari makanan dan minuman serta oleh2, tapi kamar mandi harus naik 1 lantai yg cukup tinggi dan musholah ada di lantai 3 teratas sehingga mohon agar kamar mandi ditambah, sandal yang disediakan cukup 
+8	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-05 22:00:52	iOS	10211685340851486	Bobobox Alun-Alun Malang	Earth Single	Kamarnya bersih, sleeping quality oke, hanya saja kurang di sandalnya. Sandalnya atasnya itu terlalu lemes seperti kain, jadi ketika mau digunakan agak effort. Mungkin bisa diganti dengan bahan yang lebih kaku agar lebih mudah untuk digunakan.
+10	2023-05-08 0:00:00	2023-05-09 0:00:00	2023-06-05 21:50:20	iOS	10211683533345204	Bobobox Alun-Alun Malang	Sky Single	Thank you 
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 21:15:56	Android	10081684675315492	Bobobox Kota Tua	SKY DOUBLE	Seruuu Bangetttt
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 16:43:31	Android	10121685794532147	Bobobox Juanda Jakarta	EARTH DOUBLE	Nyaman
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 12:48:43	iOS	10091685353305728	Bobobox Kota Lama	Sky Single	Service memuaskan , petugas ramah Hanya saja lorong terlalu gelap
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 12:14:16	iOS	10061685847089440	Bobobox Kebayoran Baru	Sky Single	Mantap
+10	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-06-05 12:06:09	Android	10201684729471475	Bobocabin Signature Toba	DELUXE CABIN	Good
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-05 11:33:48	iOS	10021685625078539	Bobobox Cipaganti	Sky Double	good
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-05 10:59:31	iOS	10211684650677810	Bobobox Alun-Alun Malang	Earth Single	have a good sleep here for one night, with extra clean all facilities, like it thanks!
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-05 10:23:16	Android	10071685462729816	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Mohon agar tamu yang akan menginap dilayani terlebih dahulu meskipun tamu masuk pods saat jam check in. Jangan semua tamu dilayani menjelang waktu check in karena antrian jadi mengular. Terutama bila long weekend.   Selebihnya pelayanan oke.
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-05 10:19:26	Android	10181685510931137	Bobobox Mega Bekasi	EARTH DOUBLE	Tenang
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-05 10:19:02	iOS	10331685623315593	Bobocabin Ubud	Deluxe Cabin	Tempatnya sangat tenang dan nyaman, merasa lebih grounding dengan alam karna berada di tengah alam dan jauh dari keramaian  Sangat cocok untuk yang mau healing disini! Semua fasilitas tersedia sangat lengkap dan cepat. Yoga disini jga sangat mindfulness karna dan memiliki sensasi berbeda dari tempat lain. Terbaik!!!  
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 10:18:49	Android	10181685707508238	Bobobox Mega Bekasi	SKY DOUBLE	Mantap deh...gak bising
+7	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 7:13:15	Android	10181685867563867	Bobobox Mega Bekasi	EARTH DOUBLE	nothing smoking room
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 6:59:08	Android	10081685856130216	Bobobox Kota Tua	EARTH DOUBLE	Good
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 5:43:28	Android	10091685873845645	Bobobox Kota Lama	SKY DOUBLE	hair dryer ruangan kiri kamar mandi pria tidak berfungsi
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 5:32:34	Android	10141685908915419	Bobobox Slamet Riyadi Solo	SKY SINGLE	Good jobs
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 5:20:35	iOS	10001685844728618	Bobobox Paskal	Earth Double	Nice
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 5:06:13	Android	10261685692739993	Bobocabin Baturraden	DELUXE CABIN	THE BEST FOR OUR HONEYMOON! <3
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:58:50	Android	10121685876111146	Bobobox Juanda Jakarta	EARTH SINGLE	Air panasnya kurang panas
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:55:32	Android	10271683458570266	Bobocabin Padusan	DELUXE CABIN	Really love this place. We'll back again, soon.
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:54:59	iOS	10271685269401321	Bobocabin Padusan	Deluxe Cabin	Suka banget, pengalaman staycation unik, semoga bisa balik lagi, kebersihan kamar bagus.
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:51:30	Android	10111685891861147	Bobobox Tanah Abang	SKY DOUBLE	Tisu sering ilang keknga ditoilet, harus sering dikontrol
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:49:19	Android	10221685851553986	Bobobox ITC Kuningan	SKY SINGLE	Excellent!
+10	2023-06-02 0:00:00	2023-06-05 0:00:00	2023-06-05 4:48:20	Android	10201684401670380	Bobocabin Signature Toba	DELUXE CABIN	An amazing experience!
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:47:47	iOS	10091685344368957	Bobobox Kota Lama	Sky Single	Good
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:44:53	Android	10091685864013462	Bobobox Kota Lama	EARTH DOUBLE	Nice
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:32:31	iOS	10241685329474801	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Good experience thankyouuu bobo cabin 
+10	2023-06-01 0:00:00	2023-06-05 0:00:00	2023-06-05 4:31:13	iOS	10111685244978123	Bobobox Tanah Abang	Sky Single	The bestlah 
+8	2023-06-03 0:00:00	2023-06-05 0:00:00	2023-06-05 4:30:02	Android	10091685780991695	Bobobox Kota Lama	EARTH DOUBLE	Yg bawah kesengeran berisik yg atas
+5	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:25:42	iOS	10061685837160779	Bobobox Kebayoran Baru	Earth Double	Stayed at POD 72 (3rd floor), AC not cold enough even already fully opened, there are some ants inside pod, bed cover was not really clean and makes skin itchy. 
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-05 4:18:42	Android	10251684481877755	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	Kasur terlalu kesar dan air panas terlalu sedikit untuk 2 orang. Tidak ada shuttle karena info dr staf mobil shuttle sedang rusak, sehingga untuk menuju tempat parkir harus menggunakan motor dari satpam yang bertugas. Tapi selain itu untuk kebersihan sudah baik, dan pemandangan indah, dapur umum bersih dan lumayan lengkap
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:06:58	Android	10191684666414309	Bobocabin Cikole	STANDARD CABIN	Didnt know theres no bathroom ini the standard room. And there's a parking fee on top of all of this
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:06:25	Android	10191685016635818	Bobocabin Cikole	STANDARD CABIN	Didnt know theres no bathroom ini the standard room. And there's a parking fee on top of all of this
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 4:04:19	iOS	10201685513428297	Bobocabin Signature Toba	Deluxe Cabin	Untuk view cabin 6 gak ada view harga nya boleh sedikit lebih murah
+8	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 3:40:53	Android	10171685803791323	Bobocabin Ranca Upas	STANDARD CABIN	posisi toilet baiknya perempuan dulu karena kalau di pojokan agak takut
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-05 3:13:44	iOS	10171684667417320	Bobocabin Ranca Upas	Standard Cabin	Views are amazing!
+9	2023-06-03 23:00:00	2023-06-04 23:00:00	2023-06-05 3:08:33	iOS	10231685022215579	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	great view!
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 3:05:47	Android	10351684146337721	Bobocabin Madasari Pangandaran	DELUXE CABIN	Saran mungkin untuk sami2 tidak ada minimal pembelian . Terimakasih 🙏
+8	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 2:50:20	iOS	10191685548034949	Bobocabin Cikole	Executive Cabin	Was fun
+9	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 2:48:27	Android	10261685870717336	Bobocabin Baturraden	DELUXE CABIN	Bagus suasana hutan
+10	2023-06-03 23:00:00	2023-06-04 23:00:00	2023-06-05 2:21:28	iOS	10231682483103991	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Nyaman banget, fasilitas dan servisnya bagus di tambah viewnya luar biasa. 
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 2:14:35	Android	10261685860166465	Bobocabin Baturraden	DELUXE CABIN	Seru banget !
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 1:28:17	Android	10091685653489958	Bobobox Kota Lama	SKY DOUBLE	Menyenangkan disini terimakasih
+10	2023-06-04 0:00:00	2023-06-05 0:00:00	2023-06-05 0:54:48	Android	10111685849114715	Bobobox Tanah Abang	EARTH DOUBLE	Like Room
+8	2023-06-02 0:00:00	2023-06-04 0:00:00	2023-06-05 0:52:15	Android	10261685428347474	Bobocabin Baturraden	EXECUTIVE CABIN	Host service kurang tanggap terhadap request tamu,mgkn kekurangan karyawan dihari hari libur
+7	2023-06-03 0:00:00	2023-06-05 0:00:00	2023-06-05 0:45:19	Android	10131685407477926	Bobobox Malioboro	SKY DOUBLE	Agak kecewa pada saat mau cek in aja sih pesen 2 kamar dari jauh² hari malah baru ready 1 kamar, dan harus nunggu pula 1 jam. selebihnya aman fasilitas enak tempat tidurnya nyaman.
+8	2023-06-03 0:00:00	2023-06-05 0:00:00	2023-06-05 0:45:15	Android	10131685407477926	Bobobox Malioboro	SKY DOUBLE	Untuk manajemen kesiapan kamarnya harus lebih diperhatikan lagi yah agar ketika sudah waktunya checkin kamar sudah tersedia sesuai jumlah yang sudah dibooking hari sebelum2nya, overall fasilitas dan kamarnya bagus dan cukup nyaman dan sangat strategis, thank you 👍
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-04 18:21:48	Android	10081685625107468	Bobobox Kota Tua	EARTH SINGLE	good service from staff receptionist mr ridwan
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-04 16:41:57	iOS	10001685633859504	Bobobox Paskal	Sky Double	nyaman
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-04 15:03:15	iOS	10171683473535872	Bobocabin Ranca Upas	Standard Cabin	SUPERR GEWD!!!
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 14:53:25	Android	10041685772496957	Bobobox Pancoran	EARTH DOUBLE	There was some spots on linen, but then the staff changes it as per my request
+8	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-06-04 14:05:58	Android	10031683705012174	Bobobox Dago	SKY DOUBLE	very comfortable, but the noise from the pods next door is quite annoying.
+9	2023-06-01 0:00:00	2023-06-04 0:00:00	2023-06-04 13:52:05	Android	10021684971049572	Bobobox Cipaganti	EARTH DOUBLE	Good experience
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 12:03:15	Android	10081685728377422	Bobobox Kota Tua	EARTH DOUBLE	Kurang dingin ac nya
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-04 10:23:44	iOS	10071685536950480	Bobobox Alun-Alun Bandung	Sky Double	mantap jawa
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-06-04 9:48:21	iOS	10251684804704828	Bobocabin Coban Rondo Malang	Deluxe Cabin with View	I hope you could improve the bed quality to become more soft and it will be better if you provide some bugs/mosquito repellent or lotion
+10	2023-05-06 0:00:00	2023-05-07 0:00:00	2023-06-04 9:41:41	Android	10211683214237557	Bobobox Alun-Alun Malang	EARTH DOUBLE	Nyaman banget kalo mau nenangin diri di bobobox 🥺
+9	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-04 6:49:36	iOS	10071685506722258	Bobobox Alun-Alun Bandung	Earth Double	Plisss ini recomenndeeddd bgttt tapi cuma 1 yg bikin kurang yaitu TEMPAT PARKIRNYA JAUH BGTT :)
+9	2023-06-02 0:00:00	2023-06-04 0:00:00	2023-06-04 6:02:28	Android	10061685687203276	Bobobox Kebayoran Baru	SKY DOUBLE	Tempat strategis di ares blok m dan panglima polim, destinasi kuliner dan banyak tempat kongkow... bwt stay istirahat fi kamar pods aja maupun kerja pun enak, wifi ny kenceng
+10	2023-06-02 0:00:00	2023-06-04 0:00:00	2023-06-04 5:20:13	Android	10061685634087331	Bobobox Kebayoran Baru	EARTH DOUBLE	It was good!
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 5:18:56	iOS	10121685706988289	Bobobox Juanda Jakarta	Earth Double	semoga disediain tissu di area komunal pasti customer yg nginep membutuhkan!!! Hehe
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 5:15:22	Android	10241685111286916	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Really enjoyed how comfortable the family cabin is, the bead is very wide and quite comfortable. The porch is big too.  The only problem I've encountered was how there's a gap in the shower booth's door and the water leaked out, and there's no drainage for the water to go to.
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 5:08:18	iOS	10251685353275730	Bobocabin Coban Rondo Malang	Deluxe Cabin with View	Would love to comeback. Udh dua kali kesini :)
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 5:04:21	Android	10041685628101609	Bobobox Pancoran	EARTH DOUBLE	Privasi
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 5:02:44	Android	10271685344173163	Bobocabin Padusan	DELUXE CABIN	Nice stay with amazing view
+5	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:59:55	iOS	10181685781659947	Bobobox Mega Bekasi	Earth Double	katanya ada bonavie ternyata kosong gada, cuma box wadah nya aja 
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:56:46	Android	10271685196569356	Bobocabin Padusan	DELUXE CABIN	Air panas kurang
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:52:22	Android	10241684997886692	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Good
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:39:07	Android	10061685696685543	Bobobox Kebayoran Baru	EARTH DOUBLE	Bisa early check in thank you
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:38:17	Android	10181685777117729	Bobobox Mega Bekasi	EARTH DOUBLE	Kamar mandinya licin banget
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:37:00	Android	10121685766498202	Bobobox Juanda Jakarta	SKY DOUBLE	mantab
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:34:19	Android	10001685714231760	Bobobox Paskal	SKY DOUBLE	The price went up almost double in a year..
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:33:11	iOS	10131685537244448	Bobobox Malioboro	Sky Double	it was nice stay
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:32:43	iOS	10181685729502459	Bobobox Mega Bekasi	Earth Double	Kalo tengah malem staff nya jgn rapihin kamar soalnya agak. Berisik
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:32:31	Android	10111685807950341	Bobobox Tanah Abang	SKY DOUBLE	Sangat bagus untuk lamar dan pelayanannya
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:31:16	iOS	10181685811512840	Bobobox Mega Bekasi	Earth Single	Semua okay. Yang perlu diperbaiki, tirai tidak bisa tertutup rapat dan lampu ada yang masih menyala walau sudah tekan tombol OFF, di Pod 70. Terima kasih.
+8	2023-06-02 0:00:00	2023-06-04 0:00:00	2023-06-04 4:29:47	Android	10061685455776327	Bobobox Kebayoran Baru	EARTH DOUBLE	saran untuk kebersihan nya bisa lebih ditingkatkan lagi. contohnya di toilet dan lorong pod. di toilet banyak rambut dan sampah" plastik. dan di lorong kurang bersih karena mungkin tidak disapu/divacum. jadi mungkin bisa setiap hari dibersihkan ya kak. terimakasih overall 8/10
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:29:41	Android	10111685804949216	Bobobox Tanah Abang	SKY SINGLE	Good
+7	2023-06-01 0:00:00	2023-06-04 0:00:00	2023-06-04 4:23:55	Android	10001683642337334	Bobobox Paskal	SKY DOUBLE	Mohon infonya apakah ada pods headset wireless di kamar 01 ketinggalan? Merek vivo
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:18:52	Android	10091685776244541	Bobobox Kota Lama	SKY DOUBLE	Nice
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:18:41	iOS	10061685751356024	Bobobox Kebayoran Baru	Earth Single	Semuanya bagus. Kamar bagus, toilet bersih, staffnya ramah dan sigap banget. Terimakasih banyak kakk room earthnya favorit banget!!
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:16:39	Android	10171684415073237	Bobocabin Ranca Upas	STANDARD CABIN	Nyaman si dg view alam.. tp Lampu jln akses dr cabin sy ke toilet mati pas mlm. Jd sy kesulitan ke toilet di mlm hr posisi di atas jam 11 mlm. Mkn dan mnm keg variatif. Mungkin bs ditambah menuny.. dan harga yg lbh terjangkau
+6	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:13:01	iOS	10061685677455288	Bobobox Kebayoran Baru	Sky Single	perlu ada tindakan tegas untuk beberapa customer yang agaknya cukup mengabaikan ketentuan sebagaimana yang sudah dijelaskan pada saat check in.   untuk pelayanan petugas so far pretty well. keep improving. thanks
+3	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-04 4:12:14	iOS	10271685446291606	Bobocabin Padusan	Deluxe Cabin	pelayanan check in pada bobo kabin sangat mengecewakan, sya datang sebelum pukul 14:00 berharab pukul 14:00 dapat checkin namun saya baru dapat checkin pukul 14:40 dengan alasan kamar masih dibersihkan/dibereskan. kemudian checkout pukl 12:00, jadi rugi di kami berati. semoga servicenya semakin diperbaiki.  Kamar mandi tidak ada blower, sehingga agak pengap.
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 4:09:52	Android	10121685776187298	Bobobox Juanda Jakarta	SKY DOUBLE	Good job
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:59:27	Android	10261683785379235	Bobocabin Baturraden	DELUXE CABIN	Pls wifi nya ga connect blas
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:43:04	Android	10091685442635465	Bobobox Kota Lama	SKY SINGLE	Untuk traveller, fasilitas nya oke bangets
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:37:42	Android	10271682247105702	Bobocabin Padusan	EXECUTIVE CABIN	Hostnya baik bgtt, minta apa aja dikasih, padahal takut mas2nya ngos2an soalnya jauh bgt tangganya😭  bbq an nya juga enak.. alatnya lengkap.. fasilitas jg lengkap.. bersih juga kamarnya.. thank youu happy bgt disini sm keluarga🤍
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-04 3:37:05	Android	10061685723360441	Bobobox Kebayoran Baru	EARTH DOUBLE	Pertama kali nginep di sini. Overall hampir semua bagus, tp kurang di sprei nya agak ngeres yaa. Next di bersihkan dlu yaaa . Untuk hair dryer nya tlong di cek yaa, di toilet lantai 2 hair dryer nya mati.  Dan untuk mesin kopi yang di lobby, lebih baik di benerin atau skalian gak usah ada aja. Masa pesan kopi dkit bgt kopinya kaya orang minta. Thankyou
+10	2023-06-02 0:00:00	2023-06-04 0:00:00	2023-06-04 3:36:33	iOS	10181685650265542	Bobobox Mega Bekasi	Sky Single	Good
+7	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:36:28	iOS	10171685347561359	Bobocabin Ranca Upas	Standard Cabin	bbq and steamboat are not available
+8	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:21:30	Android	10071685679414024	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Tolong diperbaiki toilet wanita, karena hanya berfungsi 2 saja.
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:19:10	Android	10001685529958839	Bobobox Paskal	SKY DOUBLE	Ruangan dan fasilitas mandinya bersih. Air conditionernya kurang dingin, tapi masih nyaman
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:15:40	Android	10121685780478071	Bobobox Juanda Jakarta	EARTH SINGLE	Nicee
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:09:07	Android	10111685760689245	Bobobox Tanah Abang	SKY DOUBLE	Good service
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 3:06:23	iOS	10041685763067359	Bobobox Pancoran	Earth Single	excellent 
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 2:59:46	Android	10241683948322647	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Jalan nya aja yg di perbaiki utk naik mobil nya
+9	2023-06-02 23:00:00	2023-06-03 23:00:00	2023-06-04 2:47:40	iOS	10331683017756825	Bobocabin Ubud	Deluxe Cabin	Keep it Up
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 2:44:13	iOS	10251683532810543	Bobocabin Coban Rondo Malang	Deluxe Cabin with View	Mungkin bole lebih di bersihkan lg untuk jendela jendelanya
+9	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 2:20:30	Android	10231684596517518	Bobocabin Kintamani 	DELUXE CABIN	Accessibility still need more work. Hard to get here and the track is small and bad. But the experience is very nice
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 2:16:31	Android	10231684565927246	Bobocabin Kintamani 	DELUXE CABIN	Nive place for healing
+9	2023-06-02 23:00:00	2023-06-03 23:00:00	2023-06-04 2:09:24	iOS	10231683128257791	Bobocabin Kintamani 	Deluxe Cabin	Good view.. bobonyaman..
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 2:07:18	iOS	10031685763330892	Bobobox Dago	Earth Double	good
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 2:01:01	iOS	10061685791110267	Bobobox Kebayoran Baru	Earth Double	Good 
+10	2023-06-03 0:00:00	2023-06-04 0:00:00	2023-06-04 1:29:21	iOS	10131685459733996	Bobobox Malioboro	Sky Double	kamar mandinya harusnya lebih diperbaikii, tapi untuk pertama kali. ini enak banget asli
+9	2023-06-02 0:00:00	2023-06-04 0:00:00	2023-06-03 23:53:08	iOS	10211685207440974	Bobobox Alun-Alun Malang	Sky Double	Sangat disayangkan tidak bisa Early checkin overall  the best 
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-03 22:37:09	Android	10041685547678568	Bobobox Pancoran	SKY DOUBLE	hii,thank u bobobox seruu trimakasih 1 malamnya!!😍
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-06-03 19:28:59	Android	10041685126984707	Bobobox Pancoran	SKY DOUBLE	Staff nya ramah banget
+8	2023-05-08 0:00:00	2023-05-09 0:00:00	2023-06-03 14:54:53	iOS	10031683527554172	Bobobox Dago	Earth Single	Ada anak kecoak dipod saya :(
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-03 14:31:58	iOS	10211685580422768	Bobobox Alun-Alun Malang	Sky Single	So good because the ambience of the room makes me sleep tight because there is sound like a river and forest to calming and fall aslep. And the speaker can connect with the phone bluetooth, and the lights can you adjust for the color and the brightness depends on your mood that times. Thank you bobobox. I will recommended you to another people but unfortunately with the high price for mini room
+10	2023-05-29 0:00:00	2023-06-01 0:00:00	2023-06-03 13:52:28	Android	10221685353956536	Bobobox ITC Kuningan	EARTH DOUBLE	5*
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 13:24:49	Android	10241685332041565	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Good
+8	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-03 13:07:06	Android	1.01717E+16	Bobocabin Ranca Upas	DELUXE CABIN	Good enough
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-03 13:06:50	Android	10091684414513734	Bobobox Kota Lama	SKY DOUBLE	Goodddd and recomended
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 12:57:56	iOS	10001685631309107	Bobobox Paskal	Sky Double	Aksesnya capek yaa tidak ada lift jadi harus naik turun tangga. Awal masuk scan barcode bisa digunakan, namun keesokan hari saat mau ke wc dan kembali lagi ke pod, scan tidak berfungsi.
+7	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-03 12:56:20	iOS	10071685537852446	Bobobox Alun-Alun Bandung	Sky Double	Sprei dan bantal berdebu. Toilet bau, wc bagian pojok banyak hewan seperti nyamuk sepertinya toilet pojok jarang disikat/dibersihkan. 
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-03 12:54:27	iOS	10201674034331173	Bobocabin Signature Toba	Deluxe Cabin	Arah masuk bobocabin emang ada uang masuk 21ribu ya? Pada hari libur
+10	2023-05-03 0:00:00	2023-05-04 0:00:00	2023-06-03 12:45:27	iOS	10141683100520743	Bobobox Slamet Riyadi Solo	Sky Double	rekomendasi banget buat kalian yg hobinya traveling dengan budget low kalian udah bisa staycation .Pelayanannya ramah 
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-03 12:43:29	Android	10241684900804421	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Over all bagus hanya rumput2 sekitar cabinnya harus lebih sering dirapikan
+7	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 11:14:49	Android	10141684925464994	Bobobox Slamet Riyadi Solo	EARTH SINGLE	The toilet smells very very bad .. Bau pesing toilet lt 1 pintu kamar mandi pojok gabisa dikunci rusak yg bikin kalo mandi harus antre
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-06-03 10:59:59	Android	10071685164947286	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Ramah ramah
+8	2023-05-18 0:00:00	2023-05-19 0:00:00	2023-06-03 10:53:26	iOS	10171683262632774	Bobocabin Ranca Upas	Deluxe Cabin	Kebersihan kabin dan teras kabin Tlg diperhatikan lg bbrp jam sblm tamu cek in bs di cross cek
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-03 9:26:02	iOS	10241685419668803	Bobocabin Puncak Gunung Mas	Executive Cabin	All Good
+8	2023-05-03 0:00:00	2023-06-02 0:00:00	2023-06-03 7:29:09	Android	10221683093465173	Bobobox ITC Kuningan	EARTH DOUBLE	Sy baru habis tgl 02 Juni 2023, ketika mau perpanjang malah tidak bisa utk durasi 1 bln ke depan, dikarenakan dari pihak tokped menyewa 1 area pod ITC Kuningan, dan customer diksh tau dadakan seperti ini, stelah sy berdebat melalui wa dan SPV dsn, akhirnya bs perpanjang 7 + 5 mlm, tp hanya 1 customer yg dipertahankan utk stay hanya dikarenakan dia bayar 3jt utk perpanjang. Konsep long stay ya dmn?
+7	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 7:26:51	iOS	10141685702135405	Bobobox Slamet Riyadi Solo	Earth Double	Lantai toiletnya lengket, tapi kalo basah jadi licin Ketika bebersih room yang sudah selesai terlalu kedubrak kedubruk. Saya di earth room keganggu pas di sky (atas saya) lagi diberesin Lalu kurang nya sign untuk setiap lantai, khususnya musholla
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-03 6:46:16	Android	10061685549383392	Bobobox Kebayoran Baru	EARTH DOUBLE	nice
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 5:40:50	iOS	10261685249241487	Bobocabin Baturraden	Deluxe Cabin	Saran : untuk check in bisa lebih dibantu fasilitas pelayanan di awal Over all cukup menyenangkan!  Terimakasih!
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 5:21:56	iOS	10111684052157827	Bobobox Tanah Abang	Earth Single	It was my first time sleeping at bobobox. What a great experience for those solo traveler who need place to stay. The location is also great. 
+7	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 5:20:53	iOS	10271685520752624	Bobocabin Padusan	Deluxe Cabin	Ada siput di kasuurrr
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 5:06:06	iOS	10271685413959440	Bobocabin Padusan	Deluxe Cabin	Bagus banget, suka mau kesini lagi! The great place for staycation!
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 5:04:09	iOS	10041685690581609	Bobobox Pancoran	Earth Double	mau kasih masukan dan saran hehe  untuk yang baru check in di jam larut malam, contohnya saat saya menginap ada yang check in di jam 2 malam  mohon diberi tahu bahwasanya lagi jam tenang, mungkin mereka belum tau, malam ini tidur saya agak keganggu karena mereka bercanda, ketawa, ngobrol bahkan telpon dengan suara yang keras selama kurang lebih satu jam  thanks masnya yang udah mau bantu tegurr
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 5:03:19	iOS	10191685001578316	Bobocabin Cikole	Standard Cabin	Terimakasih  Nice Banget
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-06-03 4:57:44	iOS	10041685034831301	Bobobox Pancoran	Earth Double	Nice
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:56:40	Android	10241684392640610	Bobocabin Puncak Gunung Mas	DELUXE CABIN	keren
+1	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:56:04	iOS	10071685591883047	Bobobox Alun-Alun Bandung	Earth Double	Not good
+3	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:47:20	iOS	10181685694959656	Bobobox Mega Bekasi	Earth Single	Pelayanan Host nya kurang ramah, Toiletnya jember banyak genangan air sampai keluar luar, dan minusnya lagi ga bisa checkout jam 1 siang! Tdk seperti bobobox yg lain yg bisa checkout jam 1 siang.
+10	2023-05-31 0:00:00	2023-06-03 0:00:00	2023-06-03 4:41:48	iOS	10221685509785065	Bobobox ITC Kuningan	Sky Single	Ok
+7	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:41:03	Android	10141685680454262	Bobobox Slamet Riyadi Solo	EARTH DOUBLE	Fasilitas tidak sesuai harga
+7	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:40:35	Android	10131683739234459	Bobobox Malioboro	SKY DOUBLE	Kebersihan kasur kurang
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:39:25	iOS	10271685012841809	Bobocabin Padusan	Executive Cabin	Sempurna! Cuma kurang free breakfast aja hihi..
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:39:15	Android	10211685656518596	Bobobox Alun-Alun Malang	SKY DOUBLE	Nyaman banget
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:37:23	iOS	10121685682248517	Bobobox Juanda Jakarta	Sky Double	BahuayahhHBnznjznzn
+8	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 4:34:22	Android	10271684927009574	Bobocabin Padusan	EXECUTIVE CABIN	Waktu check in terlambat hingga 40 menit  karena kamar belum ready masih dibersihkan. Air sempat mati kurang lebih 1 jam. Lebih ditingkatkan pelayanannya. Kalo bisa untuk menuju ke atas ada jalan setapak yg menanjak, tp tidak berbentuk tangga spy tidak melelahkan
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:33:57	Android	10171684299112793	Bobocabin Ranca Upas	STANDARD CABIN	thank you
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:32:12	iOS	10061685417471249	Bobobox Kebayoran Baru	Sky Single	All of good
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:31:19	Android	10271685162388694	Bobocabin Padusan	DELUXE CABIN	Good nature
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:29:55	Android	10271685077790698	Bobocabin Padusan	DELUXE CABIN	More pillow please
+7	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:20:24	Android	10061685689526483	Bobobox Kebayoran Baru	EARTH SINGLE	Good tapi air minum kurang
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:19:49	Android	10181685683048404	Bobobox Mega Bekasi	SKY DOUBLE	Ok
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 4:15:16	Android	10261684377030169	Bobocabin Baturraden	DELUXE CABIN	Best amenitiesnya mood lamp, blur window, embedded speaker, sm chat host. Stafnya ramah2 dan akomodatif semua. Air panasnya juga cepet banget keluarnya, minusnya cuman nggaada kran tembak di kloset atau selang di shower. Overall ini adl such a memorable stay, dengan air terjun dg jarak 10mnt hiking. Absolutely gonna recommend to anyone. Thanks ya Mas2 staf Bobocabin Baturraden semuanya, sehat sll
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:14:16	iOS	10261685190388477	Bobocabin Baturraden	Deluxe Cabin	Nicee!!! Moga bisa balik lagi
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:14:11	Android	10001685601101298	Bobobox Paskal	EARTH DOUBLE	Enak nyaman di tengah kota
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 4:11:06	Android	10331682483683550	Bobocabin Ubud	DELUXE CABIN HOT TUB	Good place and good vibes. Staff ramah semuanya dan pelayananannya juga baik. Terima kasih
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 4:06:18	Android	10171682337841865	Bobocabin Ranca Upas	DELUXE CABIN 	Lingkungannya bagus hijau dan ada danau nya
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 4:02:05	iOS	10241684937116166	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Wifi ilang ilangan
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 3:58:07	Android	10171682947162365	Bobocabin Ranca Upas	DELUXE CABIN 	Nyaman
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:56:44	Android	10081685105000336	Bobobox Kota Tua	EARTH SINGLE	All best, recommended. Keep up the best service
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:49:52	iOS	10261685342045186	Bobocabin Baturraden	Deluxe Cabin	Experience 
+8	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:46:30	Android	10251683999600828	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	Pelayanan agak lama. Mungkin karena jauh jaraknya. Tapi overall okeeeee..akan balik lagi
+10	2023-05-08 0:00:00	2023-05-09 0:00:00	2023-06-03 3:46:20	iOS	10091683578761197	Bobobox Kota Lama	Sky Double	Tempat nyaman, bagus
+4	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:38:04	iOS	10171684473261438	Bobocabin Ranca Upas	Standard Cabin	The overall experience 4/5 But, you could add ceiling fan, cause it gets hotter during the day.
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:21:01	iOS	10251684143958076	Bobocabin Coban Rondo Malang	Executive Cabin	The view is magnificent. 
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 3:14:24	Android	10061685579960464	Bobobox Kebayoran Baru	SKY DOUBLE	Nice
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:10:41	Android	10171684043353431	Bobocabin Ranca Upas	STANDARD CABIN	Nice place
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 3:03:30	iOS	10351683522007140	Bobocabin Madasari Pangandaran	Deluxe Cabin	All good, tp fixture outdoornya agak ringkih. Coba di buat lebih kokoh
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:01:57	iOS	10251685276134963	Bobocabin Coban Rondo Malang	Deluxe Cabin	View
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 3:00:00	Android	10231684654976455	Bobocabin Kintamani 	DELUXE CABIN	Overall good, nice view nice cabin. Need better signage on the road to location. Road needs concreting. Heater does not realy work.
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 2:57:06	iOS	10351683179309841	Bobocabin Madasari Pangandaran	Deluxe Cabin	Nice experience
+10	2023-06-01 23:00:00	2023-06-02 23:00:00	2023-06-03 2:49:33	iOS	10231684981941274	Bobocabin Kintamani 	Deluxe Cabin	Menyenangkan
+10	2023-06-01 0:00:00	2023-06-03 0:00:00	2023-06-03 2:37:52	Android	10031685556963444	Bobobox Dago	EARTH DOUBLE	Terimakasih bobobox dari pelayanan sampe room,  kebersihan toilet semua bagus. Sangat memuaskan buat saya.
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 2:34:41	iOS	10171684921055947	Bobocabin Ranca Upas	Standard Cabin	Nice location, too bad ngga dapet view 
+10	2023-06-01 23:00:00	2023-06-02 23:00:00	2023-06-03 2:29:21	iOS	10231679665001768	Bobocabin Kintamani 	Deluxe Cabin	Very recommended to stay here! 
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 2:21:26	Android	10201684118760253	Bobocabin Signature Toba	DELUXE CABIN	10000/10!!! Please stay here!!!!
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 2:20:39	Android	10201684118760253	Bobocabin Signature Toba	DELUXE CABIN	Best of the best! Greatest deal you could ever get in Toba!
+10	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 2:12:22	iOS	10241685332041565	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Bbq kurang bumbu
+10	2023-06-01 23:00:00	2023-06-02 23:00:00	2023-06-03 1:28:18	iOS	10231683268320094	Bobocabin Kintamani 	Deluxe Cabin	Big matress Good view Good services Good food
+9	2023-06-02 0:00:00	2023-06-03 0:00:00	2023-06-03 1:17:15	Android	10131683952879888	Bobobox Malioboro	SKY DOUBLE	enak tempatnya,
+1	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-02 20:03:14	iOS	10001685501868107	Bobobox Paskal	Sky Double	Kamar mandi lantai 2 dan 1 mampet closetnya, handuk kotor
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-06-02 17:20:54	Android	10241685247442214	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Untuk akses jalan nya tolong di perbaiki yg arah menuju Receptions dan tamu juga jika mau turun keluar harus jalan kaki kasihan jauh jalanan bebatuan krikil,hrs nya di sediakan layanan naik turun menggunakan kendaraan untuk tamu jika ada keperluan (untuk tamu yg bw mobil ) untik tamu yg bawa roda 2 masih enak bs langsung turun dgn motornya,Untuk harga makanan jgn overprice juga sesuaikan dan room
+9	2023-05-12 0:00:00	2023-05-13 0:00:00	2023-06-02 16:57:11	iOS	10121683706948842	Bobobox Juanda Jakarta	Earth Double	Keren deket banget sama stasiun juanda kemana2 jadi gampang
+9	2023-05-31 0:00:00	2023-06-02 0:00:00	2023-06-02 16:55:16	iOS	10041685553823758	Bobobox Pancoran	Sky Double	Favorite sih nginep disini cz fasilitas yg sangat lengkap n sistem yang dipakai juga gak ribet. Asik lah pokoknya 
+7	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 15:22:06	Android	10261683211390208	Bobocabin Baturraden	DELUXE CABIN	Kamarnya cukup nyaman, tp kasurnya kurang empuk Nasi liwet ayam dan suasananya mantap Cuma tangga nya bkin capek, apa lg tangga ke air terjunnya
+10	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-06-02 15:19:47	Android	10041684600608596	Bobobox Pancoran	SKY DOUBLE	Good
+9	2023-05-16 0:00:00	2023-05-19 0:00:00	2023-06-02 14:40:35	iOS	10061684209593967	Bobobox Kebayoran Baru	Earth Double	kursi untuk smoking area nya harus ditambah lagi karena banyak yang merokok dan kursinya cuma 2
+8	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-02 14:39:59	iOS	10041685357113266	Bobobox Pancoran	Earth Double	toiletnya harus diperhatikan lagii ya! 
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 13:00:18	iOS	10171683372122601	Bobocabin Ranca Upas	Standard Cabin	pelayanan bagus terutama buat Mang Walmar kalau gak salah namanya, baik pisan dah jempol 
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 10:59:29	iOS	10121685459959813	Bobobox Juanda Jakarta	Earth Double	Love to stay here, gonna comeback for another trip!
+7	2023-05-18 0:00:00	2023-05-19 0:00:00	2023-06-02 10:35:21	Android	10131684144820650	Bobobox Malioboro	SKY SINGLE	The service was good, and I really like the location. But the bedsheet was very very dirty, the rooftop was slippery and the floor was not soundproof so even in its quiet hours, we still get disturbed by the sound step. But overall, it's all good.
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-02 7:23:24	iOS	10111685243096444	Bobobox Tanah Abang	Earth Double	sangat nyaman sekalii
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-02 6:45:56	Android	10181685521952414	Bobobox Mega Bekasi	SKY SINGLE	tq
+10	2023-05-30 0:00:00	2023-06-02 0:00:00	2023-06-02 6:41:41	Android	10121685355863524	Bobobox Juanda Jakarta	SKY DOUBLE	Seperti biasa bobobox pod Juanda emng paling nyaman, bersih, dan lengkap fasilitas nya daripada pod di wilayah lain menurut saya. Toilet juga selalu dijaga kebersihannya.
+10	2023-05-14 0:00:00	2023-05-15 0:00:00	2023-06-02 6:39:47	Android	10121684032209548	Bobobox Juanda Jakarta	SKY DOUBLE	Nyaman dan bersih banget tempatnya, pelayanannya cepat, hostnya ramah dan cepat tanggap.
+9	2023-05-31 0:00:00	2023-06-02 0:00:00	2023-06-02 5:54:06	iOS	10111685431592576	Bobobox Tanah Abang	Sky Single	Tempat yang enak untuk istirahat sendiri buat beberapa hari kedepannya bakal kesini lagi!
+8	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:44:41	Android	10271683560760248	Bobocabin Padusan	DELUXE CABIN	air nya sempet mati. overall ok
+10	2023-05-31 23:00:00	2023-06-01 23:00:00	2023-06-02 5:42:46	iOS	10331685527422129	Bobocabin Ubud	Deluxe Cabin Hot Tub	What an incredible, amazing and pleasant stay here!!! I do enjoy me time ing and jacuzzing in the hot tub and massaged my body. Wish I could stay longer hereee.. Highly recommend for an escape from the hustle and bustle at the city. ALL the staff was SUPER DUPER NICE AND FRIENDLY, I couldnt ask for more. Maybe consider having a baggage elevator could lighten the staffs burden. Will be back ASAP!!!
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:37:44	iOS	10241685155109767	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Ok
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:36:12	iOS	10241685155109767	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Ok
+8	2023-05-31 0:00:00	2023-06-02 0:00:00	2023-06-02 5:22:50	Android	10241684858469095	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Ac
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:13:54	Android	10081685599143319	Bobobox Kota Tua	SKY DOUBLE	Mantap
+0	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:10:35	iOS	10141685550999261	Bobobox Slamet Riyadi Solo	Sky Double	Tiba tiba buka kamar jam 7 pagi tanpa pemberitahuan terlebih dahulu!, lain kali attitude host nya benerin dulu
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:08:05	Android	10111685581645728	Bobobox Tanah Abang	SKY DOUBLE	Cocok buat manusia" yang mau kabur sejenak dr kehidupan
+8	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:06:30	Android	10241683338228457	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Kasurnya keras bangetttt... Yg lain okeh...  Tambahin tv ya sm netflix nya..
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:03:37	iOS	10001685589074006	Bobobox Paskal	Earth Double	Agak sedikit kecewa udah sering stay di bobobox pods paskal bandung pas dapet kamar pods36 lampu yang warna putih nya redup sekali dan ac nya sama sekalia ga ada dingin nya pas aku chat dari aplikasi kata resepsionis nya udah di cek sama engineering dan sama sekali ga ada perubahan nya itu pods masih tetap ga dingin dan lampu putih nya msih redup. Hihihi
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 5:01:59	Android	10141683098992267	Bobobox Slamet Riyadi Solo	SKY DOUBLE	bagus
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:58:01	Android	10141683104208446	Bobobox Slamet Riyadi Solo	SKY DOUBLE	Ok
+3	2023-05-31 0:00:00	2023-06-02 0:00:00	2023-06-02 4:56:20	Android	10231682858641542	Bobocabin Kintamani 	DELUXE CABIN HOT TUB	The food was awful and way overpriced. I ordered porridge and it was dry, in the fried egg package it said that there will be mixed vegetable but when the food came, they only provide us with very small amount of vegetable not to mention the egg was dry and bland..  Overall, considering the place was quite isolated please provide decent food and beverages to the guests
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:55:39	iOS	10111685621383228	Bobobox Tanah Abang	Sky Double	Awesome!
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:52:24	Android	10181685625804337	Bobobox Mega Bekasi	EARTH SINGLE	Perlu adanya area parkir khusus dekat pintu masuk agar tidak jauh jalannya.
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:49:30	Android	10271685056336066	Bobocabin Padusan	DELUXE CABIN	Good thank's
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:48:57	Android	10221685623502405	Bobobox ITC Kuningan	SKY DOUBLE	ok
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:43:12	iOS	10241684595478724	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Camping in another level lah rasanya, sedikit saran kalau bisa lbh banyak menu yg ready yaa terima kasih
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:41:28	Android	10091685597295721	Bobobox Kota Lama	SKY DOUBLE	Nice
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:39:01	Android	10181685540140659	Bobobox Mega Bekasi	SKY SINGLE	Good bgt
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:38:05	Android	10191683766606546	Bobocabin Cikole	DELUXE CABIN	Unik, dekat sama alam tapi tetap modern facility di kamarnya.
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:37:11	iOS	10261684485310523	Bobocabin Baturraden	Deluxe Cabin	The cabin was super clean and very queit to stay
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:36:12	iOS	10001685284543989	Bobobox Paskal	Sky Double	kurang guling dan gantungan di kamar mandi
+9	2023-05-13 0:00:00	2023-05-14 0:00:00	2023-06-02 4:34:42	iOS	10191682062086281	Bobocabin Cikole	Standard Cabin	Sayang sekali camping sebelah sangat berisik sampai malam
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:32:52	Android	10221685614104885	Bobobox ITC Kuningan	SKY DOUBLE	Ok
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:31:57	Android	10081685602986553	Bobobox Kota Tua	SKY DOUBLE	O
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:28:45	iOS	10081685601120177	Bobobox Kota Tua	Sky Double	Fggg drfdbjmvvg
+8	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:24:03	Android	10041685619325379	Bobobox Pancoran	SKY DOUBLE	Kamar mandi airnya tidak bersih
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:21:34	Android	10061685621661719	Bobobox Kebayoran Baru	EARTH SINGLE	A best place comfort to sleep !!
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:13:50	Android	10091685606853207	Bobobox Kota Lama	EARTH SINGLE	Everything's was good
+10	2023-05-31 23:00:00	2023-06-01 23:00:00	2023-06-02 4:13:21	iOS	10231681275064131	Bobocabin Kintamani 	Deluxe Cabin	Amazing!
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:09:38	iOS	10201674999875104	Bobocabin Signature Toba	Deluxe Cabin	Cabin 2 stop kontak bermasalah, sebentar bisa cas sebentar tidak bisa
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 4:02:06	Android	10221685633026596	Bobobox ITC Kuningan	SKY SINGLE	All good
+9	2023-05-31 23:00:00	2023-06-01 23:00:00	2023-06-02 4:00:46	iOS	10331685491987523	Bobocabin Ubud	Deluxe Cabin Hot Tub	Hot tub was great :3
+8	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:56:43	Android	10121685594554111	Bobobox Juanda Jakarta	SKY DOUBLE	Greattt!!!
+0	2023-05-31 23:00:00	2023-06-01 23:00:00	2023-06-02 3:56:11	iOS	10231683782153675	Bobocabin Kintamani 	Deluxe Cabin	Air dingin nya tidak ada, masa cebok pake air panas, jorok asa kecoa kecil mati, ac panas seperti lagi sauna, bantal dan kasur keras, tempat sabun rusak dan tidak bisa dikeluarkan
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:47:20	Android	10001685576683761	Bobobox Paskal	EARTH DOUBLE	Pas mandi pas dibersihin airnyaa
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:47:01	iOS	10221685632504757	Bobobox ITC Kuningan	Sky Single	Terbaikk!
+5	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:41:47	iOS	10121685506515565	Bobobox Juanda Jakarta	Earth Double	Semuanya ok kecuali staff yg jawab tlfon untuk saya minta konfirmasi early check in. Saya tlfon sekitar pukul 11:35 untuk minta early check in pukul 13:00 staff tersebut mengkonfirmasi bisa dan silahkan datang pukul 13:00 katanya. Namun ketika datang, ternyata tidak bisa dan disuruh nunggu untuk check in normal. Tidak bisa dipegang omongannya.
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:40:25	Android	10341685519919359	Bobocabin Umarato Sumba	DELUXE CABIN	Trimakasih untuk keramahan dan sigap dalam membantu kami.. sukses dan selamat melayani ☺☺
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:36:56	Android	10241683595794809	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	very nice service
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:33:20	Android	10111685411464841	Bobobox Tanah Abang	SKY DOUBLE	Mantap speed wifi mantap kamar enak
+7	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:20:34	iOS	10261684653809512	Bobocabin Baturraden	Deluxe Cabin	Tolong lebih dibersihkan utk bagian closetnya
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:17:43	iOS	10271685173055174	Bobocabin Padusan	Deluxe Cabin	Nice and quiet
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:10:16	Android	10001685542511142	Bobobox Paskal	SKY DOUBLE	kebersihan kamar mandi nya perlu di tingkatkan lagi yaa
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 3:00:30	Android	10061685530728418	Bobobox Kebayoran Baru	EARTH SINGLE	Good for everywhere
+9	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 2:59:07	Android	10191683989012773	Bobocabin Cikole	STANDARD CABIN	Menyenangkan camping modern
+6	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 2:44:27	iOS	10061685615142030	Bobobox Kebayoran Baru	Earth Double	kamarnya tumben bgt kotor, tidur smpe ganyama krn gatel, pdhl biasanya engga loh
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 2:04:54	iOS	10351683635938389	Bobocabin Madasari Pangandaran	Deluxe Cabin	Excellentttt
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 1:21:39	iOS	10231684157147885	Bobocabin Kintamani 	Deluxe Cabin	Awesome! See you Bobocabin Kintamani!
+10	2023-05-31 0:00:00	2023-06-02 0:00:00	2023-06-02 1:11:34	Android	10081685525106265	Bobobox Kota Tua	SKY SINGLE	Experience menyenangkan
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-02 0:47:19	Android	10191681100749169	Bobocabin Cikole	DELUXE CABIN	Goods
+10	2023-06-01 0:00:00	2023-06-02 0:00:00	2023-06-01 23:18:14	iOS	10121685560621688	Bobobox Juanda Jakarta	Sky Single	Fasilitasnya bagus
+9	2023-05-06 0:00:00	2023-05-07 0:00:00	2023-06-01 22:14:38	Android	10021683268426152	Bobobox Cipaganti	EARTH SINGLE	Nice and good
+10	2023-05-12 0:00:00	2023-05-13 0:00:00	2023-06-01 18:08:16	Android	10081683138088134	Bobobox Kota Tua	EARTH DOUBLE	Good for all
+0	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-06-01 15:19:37	Android	10081685019286901	Bobobox Kota Tua	EARTH DOUBLE	Kfc tutup nya cepet bgt gatau laper apa
+0	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 14:29:14	iOS	10121685294055934	Bobobox Juanda Jakarta	Earth Single	pelayanan buruk
+8	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-01 13:58:43	Android	10241684898722798	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Nice place, comportable. Good for couple.
+7	2023-05-02 0:00:00	2023-05-04 0:00:00	2023-06-01 11:41:45	Android	1.02217E+16	Bobobox ITC Kuningan	EARTH SINGLE	I love Staying in bobobox..i twice stay hetw and love it..
+10	2023-05-14 0:00:00	2023-05-15 0:00:00	2023-06-01 11:32:31	Android	10081684043114416	Bobobox Kota Tua	EARTH DOUBLE	Good
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-06-01 11:00:22	Android	10111684745271432	Bobobox Tanah Abang	SKY DOUBLE	Sangatttt seneng sama fasilitasnya
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-01 10:59:48	Android	10111685446138986	Bobobox Tanah Abang	SKY DOUBLE	Love it!!!
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-06-01 10:42:37	Android	10191685376335755	Bobocabin Cikole	DELUXE CABIN	Oke......
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 7:57:36	Android	10121684808196652	Bobobox Juanda Jakarta	EARTH DOUBLE	unik dan nyaman
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-06-01 7:34:33	Android	10031685330071552	Bobobox Dago	EARTH DOUBLE	nice
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 7:17:19	Android	10211685410898194	Bobobox Alun-Alun Malang	EARTH DOUBLE	Nyaman dan bersih sekali
+10	2023-05-10 0:00:00	2023-05-11 0:00:00	2023-06-01 6:52:09	Android	10031683461636708	Bobobox Dago	EARTH DOUBLE	I like all of them
+0	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 6:49:20	Android	10071685539370196	Bobobox Alun-Alun Bandung	EARTH DOUBLE	cant reschedule
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:58:09	iOS	10111685546871809	Bobobox Tanah Abang	Sky Double	.
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:29:26	Android	10191685346909540	Bobocabin Cikole	DELUXE CABIN	Although no aircon, the cabin turned out to be comfortable enough. There's an exhaust fan for the air circulation. Hot water is also available, it's really a wonder since the tap water is very cold.   We can order the food from outside via the grabfood or gofood and the driver was allowed to delivered it to directly to our cabin. Nice.  Outdoor umbrella patio is thebest to enjoy the pine forest.
+7	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:18:56	Android	10041685498918588	Bobobox Pancoran	EARTH DOUBLE	Stop kontak longgar, jadi gak mau masuk chargernya
+7	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:14:19	Android	10271685086770144	Bobocabin Padusan	DELUXE CABIN	Penataan tempatnya sdh bagus. dua hal yg perlu diperbarui jika target anda menengah keatas, yg pertama kasurnya keras jdnya lumayan tdk nyaman, yg kedua tidak adanya akses jalan trolley, lokasi cabin lumayan jauh jaraknya jd capek kalau naik turun bw barang dr tempat parkir kalau cm ada jln tangga saja, selain itu mempermudah pegawai untuk mmbawa barang yg perlu dibersihkan.
+8	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:08:52	Android	10171684754667807	Bobocabin Ranca Upas	DELUXE CABIN 	Air dingin dicuaca dingin
+8	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:08:40	iOS	10261685457602265	Bobocabin Baturraden	Deluxe Cabin	Nice destination for staycation
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:07:57	Android	10271685372423414	Bobocabin Padusan	DELUXE CABIN	Enjoy & happy holiday with bobocabin mojokerto
+10	2023-05-24 0:00:00	2023-05-31 0:00:00	2023-06-01 5:05:16	Android	10081684908147308	Bobobox Kota Tua	EARTH DOUBLE	Really pleasant dreams stay at bobobox kota tua
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:02:44	Android	10261684979557369	Bobocabin Baturraden	DELUXE CABIN	Good job buat mas alif
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:02:14	iOS	10251685325547311	Bobocabin Coban Rondo Malang	Deluxe Cabin	Nice to stay here with the ambiance.. like it!
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 5:01:26	iOS	10241684972998911	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Very entertaining room facilities
+10	2023-05-30 0:00:00	2023-06-01 0:00:00	2023-06-01 5:00:42	Android	10091685374401454	Bobobox Kota Lama	SKY DOUBLE	that's was wonderful
+8	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:58:27	iOS	10171685199929826	Bobocabin Ranca Upas	Standard Cabin	minusnya ga dapet penghangat di cabin semaleman bener2 ruangan dingin dan gabisa tidur. mudah2an dilengkapi dan di perhatikan lagi
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:54:48	Android	10131685197896424	Bobobox Malioboro	SKY SINGLE	Keren bingit
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:52:02	Android	10351684848201954	Bobocabin Madasari Pangandaran	EXECUTIVE CABIN	Tempatnya sangat recomend, pelayanan super cepat dan ramah
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:51:48	Android	10211684940507849	Bobobox Alun-Alun Malang	SKY DOUBLE	3
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:50:19	iOS	10251684751375761	Bobocabin Coban Rondo Malang	Executive Cabin	Beautiful scenery
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:43:43	iOS	10271684288293349	Bobocabin Padusan	Deluxe Cabin	Mantul
+9	2023-05-30 0:00:00	2023-06-01 0:00:00	2023-06-01 4:41:01	Android	10001685451325298	Bobobox Paskal	SKY DOUBLE	Pelayanan bagus , harga bersahabat , toilet bersih
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:39:01	Android	10171685182113756	Bobocabin Ranca Upas	STANDARD CABIN	View ga bakal bikin nyesel
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:32:52	Android	10171685066068323	Bobocabin Ranca Upas	EXECUTIVE CABIN	Nice view, cold weather
+5	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:32:02	Android	10131684585447920	Bobobox Malioboro	EARTH DOUBLE	Toiletnya kurang bersih
+9	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 4:27:50	iOS	10231684485799397	Bobocabin Kintamani 	Deluxe Cabin	menginap disini sngat memuasakan pelayan nya ramah tidak mengecewakan menginap disni ccok untuk yang ingin liburan dgn view gunung dan danau 
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:24:28	Android	10261685140086988	Bobocabin Baturraden	DELUXE CABIN	Recommended cabin and resort
+10	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 4:24:15	iOS	10231684485799397	Bobocabin Kintamani 	Deluxe Cabin	room nya nyaman rapi bersihh , menginap disini sangat puas sesuai dengan harga tidak mengecewakan
+9	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 4:21:11	iOS	1.02317E+16	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	View yang dari balik cabin bagus banget
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:18:31	iOS	10111685533820569	Bobobox Tanah Abang	Sky Double	Toilet mungkin terkadang kotor dan tidak ada tissue tapi tidak apa
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:11:29	Android	10181685449370164	Bobobox Mega Bekasi	EARTH DOUBLE	All of it i love
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:11:16	Android	10261685352106317	Bobocabin Baturraden	DELUXE CABIN	Penginapan nya oke banget, kebersihan kurangnya ada katakan masuk ke dalam kamar, harganya worth it, cocok untuk penginapan keluarga
+8	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:09:36	iOS	10171685121997313	Bobocabin Ranca Upas	Deluxe Cabin 	Makanan banyak yang habis
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:08:20	Android	10231685464627391	Bobocabin Kintamani 	DELUXE CABIN	The room is so comfy but lack of accessibility....the road to get there is broken, lots of holes and can't be for 2 cars. For facility in the hotel area is great.
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:07:33	Android	10081685477823278	Bobobox Kota Tua	EARTH DOUBLE	Sleeping magnet. Bener bener tempat tidur paling pool
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:07:27	Android	10271685376131135	Bobocabin Padusan	DELUXE CABIN	Cukup puas
+8	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:05:00	Android	10081685526652251	Bobobox Kota Tua	EARTH SINGLE	Everything's good
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:01:40	Android	10081685509964474	Bobobox Kota Tua	SKY SINGLE	I love my room. I can play with the lightning. It's not too narrow just perfect for one person like me who travel alone. I got a good sleep. I love the communal space where i can enjoy my time drinking my hot coffee or slurp the noodle. Everything is so simple. Don't forget to bring your phone anywhere you go, cause you always need it to access your room. And the most perfect thing is the location
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 4:00:05	Android	10271685443584077	Bobocabin Padusan	DELUXE CABIN	Bagus banget recomended Bersih sejuk dan bener2 kek dihutan Wajib di ulang lagi next time
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:57:34	Android	10331685126574620	Bobocabin Ubud	DELUXE CABIN HOT TUB	Great hospitality. Will comeback surely 👍
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:50:50	Android	10271685454361710	Bobocabin Padusan	DELUXE CABIN	Nyaman
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:47:51	Android	10181685341838976	Bobobox Mega Bekasi	SKY DOUBLE	Jamuan yang baik, karena pelayanan dari hati yang ikhlas.
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:37:16	iOS	10261685499204829	Bobocabin Baturraden	Executive Cabin	Cukup
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:35:57	Android	10331685430715628	Bobocabin Ubud	EXECUTIVE CABIN	Semua pelayanan memuaskan
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:35:03	Android	10251685055425393	Bobocabin Coban Rondo Malang	DELUXE CABIN	Mungkin dibenahi lagi untuk stock air panasnya/hangatnya di kamar mandi
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:24:59	Android	10091685190393535	Bobobox Kota Lama	EARTH SINGLE	Service excellent
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:23:12	Android	10241684991545923	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Sangat menyenangkan....sensasi menginap yg berbeda lebih nature. Sayang room facilitynya kurang, seprti sandal kamar, sisir & menu makanannya kurang lengkap. Semoga segera diperbaiki. Over all nice place to stay in for holidays....
+8	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 3:17:35	iOS	10331681927500118	Bobocabin Ubud	Deluxe Cabin Hot Tub	All was great but toilet need more circulation
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:16:44	iOS	10261685520938912	Bobocabin Baturraden	Deluxe Cabin	Nyaman, puas.. ramean lebih seru, tappsss
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:15:39	Android	10351685248445922	Bobocabin Madasari Pangandaran	EXECUTIVE CABIN	Untuk kebersihan pantai dan sekitar kabin tolong lebih dioptimalkan
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 3:08:57	iOS	10181685524106956	Bobobox Mega Bekasi	Sky Double	Cool place
+10	2023-05-06 0:00:00	2023-05-07 0:00:00	2023-06-01 2:55:38	Android	10121683341476896	Bobobox Juanda Jakarta	SKY SINGLE	nyamannn
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 2:40:38	Android	10191684764867696	Bobocabin Cikole	STANDARD CABIN	We'll come back again. Nice experience
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 2:35:47	iOS	10271685454691626	Bobocabin Padusan	Deluxe Cabin	Amazing experience :)
+7	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 2:34:35	iOS	10231684821415466	Bobocabin Kintamani 	Deluxe Cabin	need to have a better access to go to bobocabin Kintamani
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 2:15:00	Android	10231684805058833	Bobocabin Kintamani 	DELUXE CABIN	Bagua banget pemandangannya
+9	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 2:14:13	Android	10231685247922111	Bobocabin Kintamani 	DELUXE CABIN	Pemandangannya Bagus cocok kalo mau cari tempat dingin dibali
+10	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 2:12:42	iOS	10231684751296163	Bobocabin Kintamani 	Deluxe Cabin	Mohon ditingkatkan lagi untuk rasa makanannya ya, overall we love the view!
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 2:04:40	Android	10261683899000840	Bobocabin Baturraden	DELUXE CABIN	Mas Alif good service
+10	2023-05-30 0:00:00	2023-06-01 0:00:00	2023-06-01 2:00:54	Android	10231685457932531	Bobocabin Kintamani 	DELUXE CABIN	Nice view, modern and clean room.
+10	2023-05-31 0:00:00	2023-06-01 0:00:00	2023-06-01 1:08:31	Android	10181685501602844	Bobobox Mega Bekasi	EARTH DOUBLE	Good
+10	2023-05-30 23:00:00	2023-05-31 23:00:00	2023-06-01 1:04:38	iOS	10231683031044194	Bobocabin Kintamani 	Deluxe Cabin	Super duper comfy with very good view in the morning! 
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-31 23:36:08	Android	10071685200212705	Bobobox Alun-Alun Bandung	EARTH DOUBLE	done
+10	2023-05-13 0:00:00	2023-05-14 0:00:00	2023-05-31 19:27:09	Android	10021683985715398	Bobobox Cipaganti	EARTH DOUBLE	Bessttttt banget pelayanan lokasi dan fasilitasnya
+8	2023-05-06 0:00:00	2023-05-07 0:00:00	2023-05-31 17:26:59	Android	10021683273331791	Bobobox Cipaganti	EARTH DOUBLE	Hair dryer nya nyala mati terus
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-31 16:17:56	Android	10001685277519157	Bobobox Paskal	EARTH DOUBLE	goodvibes
+8	2023-05-29 0:00:00	2023-05-31 0:00:00	2023-05-31 13:54:02	iOS	10001684833798790	Bobobox Paskal	Earth Double	Stay for 3d 2n, room never cleaned (expect cleaning service is cleaning every day). A bit smelled like humid clothes (apeg) inside the pods. Overall the stay is okay considering by the price and great location.
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-31 12:21:23	Android	10061684722368656	Bobobox Kebayoran Baru	SKY DOUBLE	kadang suka ada tetangga berisik diatas jam 10 malam dan itu ganggu tidur karena kan ga kedap suara
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 12:00:43	Android	10041685295111846	Bobobox Pancoran	EARTH DOUBLE	Selalu jadi tempat favorit kalau mau pergi"an
+4	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 11:58:16	Android	10131685420050972	Bobobox Malioboro	EARTH DOUBLE	Host Services Kurang Ramah,Toilet juga kurang bersih dan bau.Meskipun sharing tp saya pernah menginap dihotel dengan konsep seperti ini jauh lebih baik
+10	2023-05-19 0:00:00	2023-05-20 0:00:00	2023-05-31 11:46:20	iOS	10041684503096967	Bobobox Pancoran	Sky Double	Perfect
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 10:54:30	iOS	10191685077363905	Bobocabin Cikole	Executive Cabin	Mantab
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 10:22:15	Android	10061685367422328	Bobobox Kebayoran Baru	EARTH SINGLE	- Air toilet nya ga ngucur - AC nya ga bisa disetel
+6	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 9:35:18	Android	10091683382483039	Bobobox Kota Lama	EARTH SINGLE	Toilet kurang banyak
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 7:13:58	Android	10091685379397929	Bobobox Kota Lama	SKY SINGLE	Nyaman, murah tapi gk murahan
+7	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-31 6:34:35	Android	10221685268249989	Bobobox ITC Kuningan	SKY SINGLE	Mungkin admin nya bisa lebih responsif lagi ketika di chat via live chat di aplikasi
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 5:28:03	Android	10071685446963209	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Puas dengan fasilitasnya, kamarnya jg slalu nyaman, enak buat refreshing kalau lagi suntuk, untuk me time jg nyaman bgt :)
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 5:17:14	iOS	10201678867054795	Bobocabin Signature Toba	Deluxe Cabin	Terlalu banyak rumput liar diaera cabin, lebih baik rutin di potong sehingga tidak menghalangi view
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 5:07:55	iOS	10171684127278108	Bobocabin Ranca Upas	Standard Cabin	Perfectttt
+8	2023-05-19 0:00:00	2023-05-20 0:00:00	2023-05-31 5:02:08	iOS	10041684398818918	Bobobox Pancoran	Earth Double	Banyak kamar mandi yg tidak bisa digunakan
+10	2023-05-29 0:00:00	2023-05-31 0:00:00	2023-05-31 4:58:11	iOS	10191685076132236	Bobocabin Cikole	Standard Cabin	It was so nice i loved it i Will come back for sure 
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:56:23	iOS	10001685434967773	Bobobox Paskal	Sky Double	good
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:52:43	Android	10091685410834836	Bobobox Kota Lama	SKY SINGLE	Very good
+9	2023-05-29 0:00:00	2023-05-31 0:00:00	2023-05-31 4:52:02	Android	10211684902677993	Bobobox Alun-Alun Malang	SKY DOUBLE	good
+10	2023-05-28 0:00:00	2023-05-31 0:00:00	2023-05-31 4:51:41	iOS	10211682339663826	Bobobox Alun-Alun Malang	Sky Single	THANK YOU!!
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:49:29	Android	10351685448625150	Bobocabin Madasari Pangandaran	DELUXE CABIN	Nice place nice room and service...
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:48:25	iOS	10241685378357718	Bobocabin Puncak Gunung Mas	Deluxe Cabin	worth it abizzzz 
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:44:18	iOS	10031685361573162	Bobobox Dago	Sky Double	nyaman banget walaupun nginep sendiri hehe 
+9	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:43:05	Android	10241685432926296	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Menyenangkan
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:42:44	iOS	10191683551731324	Bobocabin Cikole	Standard Cabin	Pengalaman yang sangat menyenangkan dan menarik untuk menginap disini
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:41:00	iOS	10241684828419392	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Scenery was splendid 
+0	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:39:48	Android	10241685445776573	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	pnas
+7	2023-05-29 0:00:00	2023-05-31 0:00:00	2023-05-31 4:38:26	Android	10131684334184649	Bobobox Malioboro	SKY SINGLE	There were too many other customers that brought their children to the pods, should've had a special corner for families only, because the children are very noisy at night. Overall great, service was excellent, but comfortability could be improved. Thanks.
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:27:12	Android	10041685459699848	Bobobox Pancoran	SKY DOUBLE	10/10 would stay here again. Thanks 👍
+9	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:22:58	Android	10141685401802277	Bobobox Slamet Riyadi Solo	SKY DOUBLE	Amenities dapat dilengkapi dgn hand body
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:22:01	Android	10191685330092647	Bobocabin Cikole	DELUXE CABIN	Mantap, enak banget, nyaman.
+9	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:20:28	iOS	10191684459589476	Bobocabin Cikole	Deluxe Cabin	Mana sendalnya:(
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 4:18:07	iOS	10031685453152549	Bobobox Dago	Sky Double	Ok
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-31 3:59:26	Android	10181685097088255	Bobobox Mega Bekasi	EARTH DOUBLE	Sangat puas nginep di bobox, pelayanan juga ramah. Good parah dah 😊
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 3:58:51	Android	10181685455916975	Bobobox Mega Bekasi	SKY SINGLE	Air nya deras dan water heater nya berfungsi dengan baik, serta lengkap dengan pengering rambut
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 3:53:50	Android	10211685452043585	Bobobox Alun-Alun Malang	SKY DOUBLE	Wifi nya kadang lambat. Sandalnya sulit dipakai. But I general bagus
+8	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 3:27:35	Android	10191685341502680	Bobocabin Cikole	DELUXE CABIN	900K seharusnya dilengkapi TV  Letak ventilasi kurang pas sehingga jika ada cabin sebelah yang sedang membakar api, baunya masuk hingga ke cabin
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 3:14:34	iOS	10181685429821792	Bobobox Mega Bekasi	Earth Single	Good
+10	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-31 3:13:47	iOS	10041684644757627	Bobobox Pancoran	Sky Double	Yes
+9	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 3:05:54	Android	10041685429371338	Bobobox Pancoran	SKY DOUBLE	...
+9	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 3:03:33	Android	10191684677434470	Bobocabin Cikole	EXECUTIVE CABIN	Tidak ada tempat buat gantung baju dikamar mandi, malam hr lampu sorot terlalu terang jd ddk diluar silau dan polusi cahaya, lampu dlm kamar tidak bisa mati full wkt mau tidur. Mgk bisa ditambahin kursi ayunan dibagian dpn cabin karna kursi dpn bahan kayu jd ddk kelamaan pantat sakit atau dilapisin busa seperti sofa yg di pantai biarpun kena air tp tidak tembus dan cpt kering
+6	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-31 3:01:10	Android	10001685030337645	Bobobox Paskal	SKY SINGLE	Kamar mandinya cenderung kotor (bisa dibilang branch bobobox terkotor yang pernah aku inepin). Air di WCnya kuning dan bau pesing (awal ngira ada yang belum nyiram, ternyata memang warna airnya kuning). Lantainya juga terkesan tidak bersih. Coba toilet di lantai lainnya juga ternyata kondisinya nggak jauh beda. Ruang makan di lantai dasar juga cenderung kotor. Selain itu, masih bisa ditolerir
+8	2023-05-29 0:00:00	2023-05-31 0:00:00	2023-05-31 1:14:32	Android	10061685181857161	Bobobox Kebayoran Baru	EARTH SINGLE	Perlu ada alternatif toilet jongkok dan semprotan di toilet.
+10	2023-05-30 0:00:00	2023-05-31 0:00:00	2023-05-31 0:39:38	Android	10201678323107346	Bobocabin Signature Toba	DELUXE CABIN	Very amazing place with good facilities and activities
+10	2023-05-28 0:00:00	2023-05-30 0:00:00	2023-05-30 23:18:12	iOS	10241684926335196	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Cabin/pod nyaman, water heater berfungsi baik, toilet bersih, kasur agak keras tapi cukup nyaman utk tidur, communal space dan dapur bersama bersih dan nyaman, suasana sangat tenang dan nyaman, host sangat ramah dan fast respon. Terima kasih
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 15:33:06	Android	10191684946673517	Bobocabin Cikole	STANDARD CABIN	I have a great stay experience, but if i can suggest simething to improve, maybe you can provide sink, to wash hand near every pod, thanks!!
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-30 13:42:40	Android	10071683623546131	Bobobox Alun-Alun Bandung	SKY DOUBLE	Nyaman poll pengen balik lagi, hostnya juga ramah, baik, cantik pula galon abis lgsg di ganti, topp banget deh bersih juga
+0	2023-05-23 0:00:00	2023-05-30 0:00:00	2023-05-30 12:07:59	iOS	10081684814537632	Bobobox Kota Tua	Sky Double	Under the matrace in the room not clean. There is a lot of napkins and hair. What????? Why i must sleep with a hair and napkins?? Plates in the kitchen not clean. Why i must eat from dirty plates??? Today 30.05.2023 comes a group of workers and all the day smells poisonly in the pod. I do not recomend anyone to stay here. 
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 7:55:27	iOS	10111685339743916	Bobobox Tanah Abang	Sky Double	Sangat puas 
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 6:12:50	Android	10121685387697762	Bobobox Juanda Jakarta	SKY DOUBLE	Paket lengkap, lofff
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 5:58:32	Android	10261685252956830	Bobocabin Baturraden	DELUXE CABIN	Thanks for the great adventure and friendly staff almost all are helpful and easy to arrange the special request or preference.  Special thanks to Oki, Alfi, Fauzi AND wisnu you guys did great job.  Will definitely to return soon
+9	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 5:57:57	Android	10241685192766569	Bobocabin Puncak Gunung Mas	DELUXE CABIN	kendala cuman banner d pinggir jalan mati, sudah conform petugas dan d respon baik
+9	2023-05-03 0:00:00	2023-05-10 0:00:00	2023-05-30 5:36:09	Android	10121682514723462	Bobobox Juanda Jakarta	SKY DOUBLE	Excellent
+10	2023-05-16 0:00:00	2023-05-17 0:00:00	2023-05-30 5:02:34	iOS	10221684226929979	Bobobox ITC Kuningan	Sky Double	ok
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 4:46:03	iOS	10241681988596069	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Perpect
+9	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 4:43:28	Android	10191685353650686	Bobocabin Cikole	STANDARD CABIN	Sejukkk
+9	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 4:35:17	iOS	10231683885094707	Bobocabin Kintamani 	Deluxe Cabin	Recomended for holiday
+3	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 4:31:24	Android	10141685347650708	Bobobox Slamet Riyadi Solo	EARTH DOUBLE	Pegawi tidak ramah
+10	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 4:17:20	iOS	10231682440537890	Bobocabin Kintamani 	Deluxe Cabin	Very good place 
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 4:13:40	Android	10071685293562994	Bobobox Alun-Alun Bandung	EARTH SINGLE	Great experience
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:54:45	Android	10061685274399377	Bobobox Kebayoran Baru	EARTH SINGLE	Nice
+9	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:54:34	Android	10271685090635839	Bobocabin Padusan	DELUXE CABIN	Harusnya ada jatah makan pagi per 1hari
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:53:27	iOS	10271685334040863	Bobocabin Padusan	Deluxe Cabin	Bagus banget cocok buat kalian yg mau healing karna bener2 tenang dan pelayanannya mudah by phone sdh bs pesen makan tanpa naik ke receptionis dan pembayaran dgn mudah QRIS best deh ak kasi nilai 10/10 very recommended 
+10	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 3:51:34	iOS	10231676216688715	Bobocabin Kintamani 	Deluxe Cabin	Nyaman dan bersih! Pemandangan bagus! 
+10	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 3:45:50	iOS	10231685269297279	Bobocabin Kintamani 	Deluxe Cabin	Verry Good
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:37:47	Android	10351685179996334	Bobocabin Madasari Pangandaran	DELUXE CABIN	Will be back soon as possible
+9	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 3:29:37	iOS	10231685198379718	Bobocabin Kintamani 	Deluxe Cabin	Sangat baik atas pelayanannya dan saya ucapkan terima kasih atas pelayanan nya
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:25:44	Android	10231685168389403	Bobocabin Kintamani 	DELUXE CABIN	Ini adalah salah satu best exprience untuk dapat stay di bobocabin kintamani, meskipun cuman semalam. Bakalan kesini lagi sih.
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:21:06	Android	10121685284901986	Bobobox Juanda Jakarta	SKY DOUBLE	I was so impressed. The staff were lovely and kind, the room was SO clean, and everything seemed quite thoughtful in terms of facilities, e.g. large dining area, bathroom, water dispensers. Definitely coming to another bobobox in the future.
+10	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 3:16:56	iOS	10231684938780911	Bobocabin Kintamani 	Deluxe Cabin	View bagus, tempat nyaman, dan recomended untuk pasangan maupun keluarga 
+8	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 3:05:56	Android	10121684845456298	Bobobox Juanda Jakarta	SKY DOUBLE	Kasur yg digunakan sangat keras, lebih baik diganti busa medium / soft karena smua org tidak suka dengan kasur yg keras (ortopedic). Trimakasih
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 2:54:32	Android	10331685331929044	Bobocabin Ubud	DELUXE CABIN	Good
+10	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 2:51:35	iOS	10231685014094255	Bobocabin Kintamani 	Deluxe Cabin	sangat baik
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 2:39:24	Android	10341685337596285	Bobocabin Umarato Sumba	DELUXE CABIN	Nyaman sekali puas menginap disini,pelayananya friendly. Good luck ya
+9	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 2:35:00	Android	10191685349400888	Bobocabin Cikole	DELUXE CABIN	service baik dan tempat nya nyaman
+8	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 2:27:52	iOS	10271685340996583	Bobocabin Padusan	Deluxe Cabin	Worth it....
+10	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-05-30 1:43:20	iOS	10031684899274397	Bobobox Dago	Earth Double	Great
+10	2023-05-28 0:00:00	2023-05-30 0:00:00	2023-05-30 1:40:31	iOS	10341683717693972	Bobocabin Umarato Sumba	Deluxe Cabin	Very nice camping experience 
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-30 1:33:43	iOS	10061684993837420	Bobobox Kebayoran Baru	Sky Double	Host baik , menjelaskan dengan jelas,thx ka fahri
+9	2023-05-28 23:00:00	2023-05-29 23:00:00	2023-05-30 1:24:05	iOS	10231682834879091	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Coming in the evening, check out in the morning 9am. Overall good impression for us. Beautiful view, helpful and friendly staffs.  Just input to add more street signs on the crossroads .
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 1:18:23	Android	10331685004627854	Bobocabin Ubud	DELUXE CABIN	👍 good deh
+10	2023-05-27 23:00:00	2023-05-29 23:00:00	2023-05-30 1:17:47	iOS	10231684764092163	Bobocabin Kintamani 	Deluxe Cabin	Really lovely view around the cabin, the complementary experiences really suits the surrounding e.g. fireplace, bbq. Would love to visit here again
+7	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-30 0:43:55	iOS	10191682663324348	Bobocabin Cikole	Deluxe Cabin	It was not bad
+10	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-30 0:40:23	Android	10191683882643479	Bobocabin Cikole	DELUXE CABIN	Nyamaaan bgt.. bener2 tempat buat healing terbaiik.. 😍😍😍
+10	2023-05-29 0:00:00	2023-05-30 0:00:00	2023-05-30 0:27:05	Android	10031685364051838	Bobobox Dago	EARTH DOUBLE	Si0
+0	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-05-29 17:01:39	iOS	10061684583401136	Bobobox Kebayoran Baru	Earth Double	pelayanan nya tidak ramah buat kaka yg cewe parkiran nya juga ga bebas bentar bentar di gembok yg jaga nya di loby terus ribed harus manggil dlu
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 16:56:44	iOS	10061685293047763	Bobobox Kebayoran Baru	Sky Double	Ok
+9	2023-05-14 0:00:00	2023-05-15 0:00:00	2023-05-29 14:37:12	iOS	10181684080377934	Bobobox Mega Bekasi	Sky Double	Tol
+0	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 14:36:18	iOS	10021685026596648	Bobobox Cipaganti	Earth Double	Bobobox terburuk sejauh ini. Manajemen berantakan. Pod dgn AC ga berfungsi tapi malah dijual. Yakali tidur pengap2an di pod sekecil itu gak pakai AC. Disuruh nunggu kejelasan petugas front office dari pertama kali komplen (sekitar jam 16.30) sampai jam 22.00, tetap tidak ada solusi. Akhirnya memutuskan untuk pindah hotel. Apes bgt.  Baca review Google Maps banyak komplen yg serupa. Gak heran sih.
+9	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-05-29 12:45:54	Android	10111684553802327	Bobobox Tanah Abang	SKY DOUBLE	Good
+8	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-05-29 9:29:44	iOS	10091683798415659	Bobobox Kota Lama	Earth Double	the host are so nice
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-29 9:29:19	iOS	10091684921330396	Bobobox Kota Lama	Earth Double	so comfy
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-29 9:24:07	Android	10221684714017322	Bobobox ITC Kuningan	EARTH SINGLE	5*
+10	2023-05-23 0:00:00	2023-05-26 0:00:00	2023-05-29 9:23:51	Android	10221684765497191	Bobobox ITC Kuningan	EARTH DOUBLE	5*
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-29 9:05:33	Android	10001684744964166	Bobobox Paskal	SKY SINGLE	No comment
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 8:00:05	Android	10221685249590205	Bobobox ITC Kuningan	EARTH DOUBLE	Mohon berikan kami bobo lovers kulkas khusus di comunal space untuk simpen makanan dan minuman kamii biar awetttt
+10	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-05-29 7:14:40	iOS	10031684899274397	Bobobox Dago	Earth Double	Good ones
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 5:55:41	iOS	10031685259609846	Bobobox Dago	Sky Double	Good area , like it . Servise good 
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 5:31:12	Android	10241685247442214	Bobocabin Puncak Gunung Mas	DELUXE CABIN	All is good, mungkin saran di perbagus untuk area jalan nya untuk tamu (yg bawa mobil), ke lokasi Receptions memudahkan untuk bisa jalan kaki.  Untuk AC kurang dingin di siang hari , tolong di PM (preventif maintenance)
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 5:29:18	Android	10241685253731294	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Ambient light is very unique feature, we love it
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 5:28:35	iOS	10241683045630840	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Showernya slow. Mandinya Jdnya lama. Keramas berasa kurang bersih. 
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 5:09:59	Android	10351685259710334	Bobocabin Madasari Pangandaran	EXECUTIVE CABIN	Well
+9	2023-05-27 0:00:00	2023-05-29 0:00:00	2023-05-29 5:08:31	Android	10121685024545116	Bobobox Juanda Jakarta	EARTH DOUBLE	Cleen and Clear great!!
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 5:05:27	Android	10211685239837742	Bobobox Alun-Alun Malang	SKY DOUBLE	The location was directly infront of alun alun. Hence, street food was easy to get. The pods were comfortable (sky double) and the wall plug doesnt require international travel adaptor. The toilet and shower cubicles are decent and they have hairdryer  as well. The staffs were friendly from the strat till the end. Would definitely try to stay at other branches in other cities
+10	2023-05-27 0:00:00	2023-05-29 0:00:00	2023-05-29 5:02:00	iOS	10131681561952166	Bobobox Malioboro	Sky SIngle	Jam tanganku senpat tertinggal, tapi ditemukan staff dan disimpan. Terima kasihh
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:59:52	iOS	10071685287847575	Bobobox Alun-Alun Bandung	Earth Double	Ok ya good ex
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:57:26	iOS	10251684905258417	Bobocabin Coban Rondo Malang	Deluxe Cabin with View	Lumayan 
+7	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:55:01	Android	10021685241922903	Bobobox Cipaganti	SKY SINGLE	maaf tp tidur agak keganggu karena gedebak gedebuk sebelah yg lg diberesin
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:53:42	Android	10211685283097855	Bobobox Alun-Alun Malang	EARTH DOUBLE	MV
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:47:00	Android	10271685095742479	Bobocabin Padusan	DELUXE CABIN	speaker dengung
+9	2023-05-27 0:00:00	2023-05-29 0:00:00	2023-05-29 4:45:03	iOS	10211685172235190	Bobobox Alun-Alun Malang	Earth Double	Very clean and close to amenities and city centre
+10	2023-05-26 0:00:00	2023-05-29 0:00:00	2023-05-29 4:44:10	Android	10061685033877064	Bobobox Kebayoran Baru	SKY SINGLE	Bagus
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:43:18	Android	10271685150007461	Bobocabin Padusan	DELUXE CABIN	Bagusss banget
+7	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:42:58	Android	10171685148484266	Bobocabin Ranca Upas	STANDARD CABIN	Toilet yg sharing mohon diperbanyak
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:42:19	Android	10121685238326888	Bobobox Juanda Jakarta	EARTH DOUBLE	Thanks
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:40:34	Android	1.03317E+16	Bobocabin Ubud	DELUXE CABIN HOT TUB	i would love to give 10, but i really disappointed with the food that I've ordered, i ordered spaghetti parmezan cheese, that came out to be very dry,hard, and tasteless, (HAMBAR) and not hot or warm, it feels like the cheap spaghetti that just being boiled and nothing else but a little bit of cheese, its YUCKY, my son can't even finished it. and its 48K SO NOT WORTH IT.
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:38:05	Android	10241684510384352	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Lovely stay
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:32:44	Android	10241674617245452	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Pelayanannya sangat baik, ada fasilitas jemputan bagi yg membutuhkan, semuanya ok.. Lain kali ingin berkunjung lagi kesini. Terima kasih
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:31:03	iOS	10001685260451777	Bobobox Paskal	Sky Double	Memuaskan
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 4:25:42	Android	10001685142310711	Bobobox Paskal	SKY SINGLE	tempatnya bagus asik,kamar mandi bersih recommended banget apalagi lokasinya yang strategis dekat dengan stasiun,bakal kesini lagi sih 👍🏻
+10	2023-05-27 23:00:00	2023-05-28 23:00:00	2023-05-29 3:56:39	iOS	10231685263034323	Bobocabin Kintamani 	Deluxe Cabin	Good
+0	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:56:04	Android	10121685244316441	Bobobox Juanda Jakarta	EARTH SINGLE	Tidak bisa titip barang sebentar. Padahal cuma mau keluar sebentar.
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:56:01	Android	10261685106591645	Bobocabin Baturraden	DELUXE CABIN	pengalaman yang bener2 keren dan menyenangkan. untuk masukannya jalan ke curug tirtasela di buat lebih aman
+10	2023-05-27 23:00:00	2023-05-28 23:00:00	2023-05-29 3:53:33	iOS	10231685095622532	Bobocabin Kintamani 	Deluxe Cabin	Udahh bagus bgt
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:46:56	Android	10231685075653219	Bobocabin Kintamani 	DELUXE CABIN	We had a comfortable stay with superb views, chilly atmosphere, and modern amenities.
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:41:41	Android	10171685148694814	Bobocabin Ranca Upas	STANDARD CABIN	Menyenangkan, rekomendasi
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:28:17	Android	10061685103479218	Bobobox Kebayoran Baru	EARTH SINGLE	Mantap dan puas
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:25:53	Android	10181685238681413	Bobobox Mega Bekasi	EARTH SINGLE	Good
+2	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:16:35	iOS	10221685263460847	Bobobox ITC Kuningan	Earth Double	Toilet bau banget mandi gak nyaman dan kotor, bau pesing air berantakan kemana2. Kamar tidur bau banget pas pertama datang bau ketek abang2 jadi gak nyaman
+8	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-05-29 3:14:41	Android	10241683306677496	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Bersih nyaman tenang cuma sayang air panasnya kurang
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 3:12:06	Android	10231684808317371	Bobocabin Kintamani 	DELUXE CABIN	Best view!!
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-29 3:08:53	Android	10131684896763625	Bobobox Malioboro	SKY DOUBLE	Toilet yang ada renovasi Beberapa dispenser airnya kosong.
+10	2023-05-07 0:00:00	2023-05-08 0:00:00	2023-05-29 3:08:46	iOS	10021683432926741	Bobobox Cipaganti	Sky Double	good
+8	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-29 3:07:21	Android	10131683738248495	Bobobox Malioboro	EARTH DOUBLE	Pas nginap ada renovasi di sekitaran toilet. Jadi rada kotor kalau ke toilet.
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 2:50:06	iOS	10231683603330742	Bobocabin Kintamani 	Executive Cabin	Good
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 2:44:36	Android	1.02317E+16	Bobocabin Kintamani 	DELUXE CABIN	Everything is good.
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 2:40:38	iOS	10071685270842280	Bobobox Alun-Alun Bandung	Earth Double	i love that
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 2:27:42	iOS	10181685208499834	Bobobox Mega Bekasi	Sky Single	Good
+10	2023-05-27 23:00:00	2023-05-28 23:00:00	2023-05-29 2:07:39	iOS	10231684502499073	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	2nd time stayed at Bobocabin and still amazing! The hot tub was great at night with Danau Batur view. Eventhough the room small but clean and cozy, i love it. 
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 1:46:29	Android	10231682667981381	Bobocabin Kintamani 	DELUXE CABIN HOT TUB	Pemandangan sangat bagus terutama pada pagi hari, cabin bersih. Dapat free upgrade ke hot tube cabin. Kalau mau kesini harus lewat jl. Songdikit.
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 1:41:06	Android	10231685149098946	Bobocabin Kintamani 	DELUXE CABIN	View yang sangat keren dari cabin
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 1:30:01	Android	10351685148288631	Bobocabin Madasari Pangandaran	DELUXE CABIN	Cuma blum ada resto ajh....
+9	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 1:23:58	Android	10231685163950094	Bobocabin Kintamani 	DELUXE CABIN	Very nice view. Very quite place and very kind staff
+10	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 1:06:06	Android	10081685275819479	Bobobox Kota Tua	SKY DOUBLE	Hotel murah tp fasilitas mewah, sangat puas pkonya, terimakasih bobobox🙏
+10	2023-04-29 0:00:00	2023-04-30 0:00:00	2023-05-29 0:29:28	Android	10041682742646035	Bobobox Pancoran	SKY DOUBLE	Mantap
+10	2023-05-12 0:00:00	2023-05-13 0:00:00	2023-05-29 0:29:18	Android	10061683785486762	Bobobox Kebayoran Baru	EARTH DOUBLE	Mantap
+10	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-05-29 0:29:03	Android	10081684323909927	Bobobox Kota Tua	SKY DOUBLE	Mantap
+10	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-29 0:28:52	Android	10081684664352188	Bobobox Kota Tua	SKY DOUBLE	Mantap
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-29 0:28:39	Android	10081684844266138	Bobobox Kota Tua	EARTH DOUBLE	Mantap
+8	2023-05-28 0:00:00	2023-05-29 0:00:00	2023-05-29 0:26:28	Android	10231685122706080	Bobocabin Kintamani 	DELUXE CABIN	Pengalaman menarik menginap dengan view yg indah.   Kedepannya bisa di tingkatkan untuk kualitas kasur dan bantal.
+6	2023-05-18 0:00:00	2023-05-21 0:00:00	2023-05-28 23:49:40	iOS	10261683168967715	Bobocabin Baturraden	Deluxe Cabin	There is no strict role where people can not talk so loudly. Our last experience, we got two neighbors, front and back cabin who talked so loud. The back one, talked until 1.30 pm. 
+9	2023-05-16 0:00:00	2023-05-17 0:00:00	2023-05-28 16:01:16	Android	10081684161112490	Bobobox Kota Tua	EARTH SINGLE	Always having a great time at bobobox. I feel very provate with the room not too small. And the aircon is great. But could be better
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-28 15:09:16	iOS	10251681489200229	Bobocabin Coban Rondo Malang	Deluxe Cabin	Indah tempatnya , adem 
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 14:28:39	iOS	10261684633571517	Bobocabin Baturraden	Executive Cabin	Bobocabin baturraden enak,pelayannya ramah,nyaman,cuma saat sarapan pagi di curug tirtasela kurang privat karena pengunjung lain yg tidak booking ikut turun ke area dikarenakan tidak ada penjagaan. 
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 14:09:01	iOS	10231685099965369	Bobocabin Kintamani 	Deluxe Cabin	Location and the whole nature concept is lovely, but unfortunately some guests do not respect the peace and quiet. Too much noise during off hours (22.00 until 07.00) and they leave a lot of food mess outside. This is quite off putting considering Bobocabin is a concept to appreciate nature. 
+8	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-28 14:08:26	iOS	10231684941045058	Bobocabin Kintamani 	Deluxe Cabin	Location and the whole nature concept is lovely, but unfortunately some guests do not respect the peace and quiet. Too much noise during off hours (22.00 until 07.00) and they leave a lot of food mess outside their cabins. This is quite off putting considering Bobocabin is a concept to appreciate nature.
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 10:07:54	iOS	10071685084078633	Bobobox Alun-Alun Bandung	Sky Double	Untuk bobo box alun alunmohon sediakan parkir yang memadai
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 9:01:33	Android	10131685072895636	Bobobox Malioboro	EARTH DOUBLE	Harganya makin mahal
+10	2023-05-10 0:00:00	2023-05-11 0:00:00	2023-05-28 8:20:35	Android	10081683481391229	Bobobox Kota Tua	SKY DOUBLE	Thats good
+10	2023-05-01 0:00:00	2023-05-02 0:00:00	2023-05-28 6:17:58	iOS	10001682923505658	Bobobox Paskal	Earth Double	nice
+10	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-05-28 6:17:40	iOS	10001684286806560	Bobobox Paskal	Earth Double	enjoyy
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 6:03:33	Android	10261684493974781	Bobocabin Baturraden	EXECUTIVE CABIN	It was a great stay!!
+7	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 5:55:08	Android	10131685155256645	Bobobox Malioboro	SKY DOUBLE	Kamar sebaiknya lebih bersih, sprei di ganti jika sudah kotor
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 5:33:35	Android	10081684979165307	Bobobox Kota Tua	EARTH DOUBLE	Not bad
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:59:28	Android	10221681928176391	Bobobox ITC Kuningan	SKY SINGLE	Aangat nyaman nginap di bobobox.
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:52:18	Android	10181685167312044	Bobobox Mega Bekasi	SKY DOUBLE	kereennnn
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:49:41	iOS	10121685161813884	Bobobox Juanda Jakarta	Earth Double	Ok
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:45:56	Android	10041685190895358	Bobobox Pancoran	EARTH DOUBLE	Nice
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:41:57	Android	10171684736366789	Bobocabin Ranca Upas	STANDARD CABIN	Nice Environment
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:41:30	Android	10171684736366789	Bobocabin Ranca Upas	STANDARD CABIN	Nice Environment
+9	2023-05-26 0:00:00	2023-05-28 0:00:00	2023-05-28 4:41:19	Android	10131685127286189	Bobobox Malioboro	SKY DOUBLE	rekom
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:38:47	Android	10261684985420535	Bobocabin Baturraden	DELUXE CABIN	Waterfall breakfast is superb
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:38:30	iOS	10221685121152894	Bobobox ITC Kuningan	Sky Single	Jarang ada tissue 
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:37:24	iOS	10061685179770371	Bobobox Kebayoran Baru	Earth Double	impressed banget sama facility dan view nya
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:33:26	Android	10271684750602959	Bobocabin Padusan	EXECUTIVE CABIN	Very nice, calming. New experience to feel nature
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 4:25:11	iOS	10231684812997763	Bobocabin Kintamani 	Deluxe Cabin	Yes Is so nice
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:23:37	iOS	10131685176216588	Bobobox Malioboro	Sky Double	Mantapss
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:23:11	Android	10191683954882196	Bobocabin Cikole	STANDARD CABIN	Good
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:23:08	Android	10071685181431201	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Cukup
+7	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:20:49	Android	10041685199337634	Bobobox Pancoran	SKY DOUBLE	Kasur keras banget, kurang kedap suara dan ga ada pengaturan AC. Kalo itu udh diperbaiki nilai 1000/100
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:16:50	iOS	10201685015126118	Bobocabin Signature Toba	Deluxe Cabin	Sayurnya beku
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:14:51	Android	10091685179102756	Bobobox Kota Lama	EARTH SINGLE	Tolong jangan naik terus donggg harganya! Lokasi dan kenyamanannya udah enak soalnya hehe
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:11:45	Android	10171684734700538	Bobocabin Ranca Upas	EXECUTIVE CABIN	Environment
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 4:09:48	Android	10071685151157980	Bobobox Alun-Alun Bandung	SKY DOUBLE	All good
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 4:09:42	iOS	10331684928716574	Bobocabin Ubud	Deluxe Cabin	Very good area for weekends and vacation, calm place, with wonderful nature and breathtaking view
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 3:59:48	iOS	10231685125132095	Bobocabin Kintamani 	Deluxe Cabin	fasilitas kamar oke, pemandangan sekitar jg bagus, pelayanan nya jg oke. terima kasih!!!
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:55:08	Android	10331684918870741	Bobocabin Ubud	DELUXE CABIN HOT TUB	Haduh bagus sih bagus bgd tapi breajfastnya telat bgt :( sejam nunggu sad
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:54:40	iOS	10351683779027854	Bobocabin Madasari Pangandaran	Executive Cabin	The cabin provides a unique staying experience. Its close to the beach as well.
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:49:59	iOS	10111683610054970	Bobobox Tanah Abang	Sky Double	sejauh ini untuk fasilitas sangat ok, hanya ada problem di kunci kadang tidak mau terkunci, pintu harus di buka tutup berulang baru terkunci.
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:48:15	Android	10111685199920705	Bobobox Tanah Abang	EARTH DOUBLE	Very nice place to stay
+6	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:47:57	iOS	10091685159498354	Bobobox Kota Lama	Sky Single	Lantai kamar mandi licin dan bau pesing
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:47:08	iOS	10271684977156473	Bobocabin Padusan	Deluxe Cabin	too expensive for food and beverages 
+9	2023-05-25 0:00:00	2023-05-28 0:00:00	2023-05-28 3:41:41	Android	10221683338208350	Bobobox ITC Kuningan	SKY SINGLE	Overall nyaman, tapi bed keras. Selain itu di malam kedua, pod ga terhubung sama app jadi buat ganti lampu atau matikan lampu dari app ga bisa. Selain itu colokan listrik di kamar sering ga konek ke gadget. Tolong diperbaiki kelistrikan pod 17
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:40:06	Android	10111685216065398	Bobobox Tanah Abang	SKY DOUBLE	Nice place
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:38:43	iOS	10041685180413478	Bobobox Pancoran	Earth Double	Nice
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 3:38:31	iOS	10231684288599256	Bobocabin Kintamani 	Deluxe Cabin	Nais
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:36:21	iOS	10041685116950820	Bobobox Pancoran	Sky Single	nice
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:28:12	iOS	10081685191935591	Bobobox Kota Tua	Sky Double	baguss
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:19:13	Android	10071685173602426	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Wah sandalnya ke bawa nih
+9	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 3:17:53	iOS	10231684501937979	Bobocabin Kintamani 	Deluxe Cabin	Air di kamar mandi merembes keluar
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 3:14:23	iOS	10231683721111721	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	View dan ambiance keren. Facilities lengkap . Worth it!!
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 3:12:51	Android	10091685197467448	Bobobox Kota Lama	SKY SINGLE	Nyaman dan suka banget nginep di bobobox. Bisa jadi pilihan buat solo traveler
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 2:59:11	Android	10331685164220527	Bobocabin Ubud	DELUXE CABIN	Great
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 2:57:10	Android	10261685095149419	Bobocabin Baturraden	DELUXE CABIN	Recomended
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 2:55:02	Android	10191684393166619	Bobocabin Cikole	STANDARD CABIN	Good service
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 2:54:31	iOS	10241684764928219	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Ok
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 2:53:40	iOS	10231684903775511	Bobocabin Kintamani 	Deluxe Cabin	Good!!!
+9	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 2:44:41	iOS	10231685175044724	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Cabin is a bit worn out and tub is broken but I love the feelong of bekng in the nature. Ill come back 
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 2:19:31	iOS	10081685189353993	Bobobox Kota Tua	Earth Double	Pods atas berisik
+8	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 2:18:58	Android	10241683801602983	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Untuk kamar mandi bagian pembatas area shower cukup tajam. Kaki saya tersandung dan berdarah. Mohon diperbaiki
+7	2023-05-26 0:00:00	2023-05-28 0:00:00	2023-05-28 2:14:43	iOS	10191681047098777	Bobocabin Cikole	Deluxe Cabin	No activity. Surrounding sounds too loud
+2	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 1:58:07	Android	10231685181364245	Bobocabin Kintamani 	EXECUTIVE CABIN	Pada aplikasi tidak tertera harga, setelah ditelp, datang aja ke lokasi,nanti akan dibantu,setelah dilokasi tidak sesuai dengan apa yang dikatakan, terpaksa kami book kamar yang harga tidak masuk akal, kami tidak mungkin kembali, karena jalan menuju lokasi ini sangat extrim, sangta tidak recomended, harga tidak  masuk akal dengan fasilitas yang ada, sangat mengecewakan!
+9	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 1:33:35	Android	10231684979900142	Bobocabin Kintamani 	DELUXE CABIN	Extraordinary experience! View is great! Surely will come back qgain with my family! Please make event in communal area :)
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 1:27:28	Android	10071685174827632	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Nyaman dan bersih
+10	2023-05-27 0:00:00	2023-05-28 0:00:00	2023-05-28 1:27:08	Android	10061685066221692	Bobobox Kebayoran Baru	SKY SINGLE	Nice service and hospitality from the crew
+10	2023-05-26 23:00:00	2023-05-27 23:00:00	2023-05-28 1:14:50	iOS	10231684998131558	Bobocabin Kintamani 	Deluxe Cabin	Its was amazing to here!! 
+10	2023-04-28 0:00:00	2023-04-29 0:00:00	2023-05-28 0:33:24	Android	10081682661307154	Bobobox Kota Tua	EARTH DOUBLE	Sleep room Good clean
+9	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-28 0:06:30	iOS	10091684655380497	Bobobox Kota Lama	Sky Double	masih ada perbaikan di jam istirahat
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 23:44:33	Android	10081683361220347	Bobobox Kota Tua	EARTH DOUBLE	Lokasi strategis, kebersihan di Bobobox bagus.
+8	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 15:51:16	iOS	10201685091013909	Bobocabin Signature Toba	Deluxe Cabin	tirai tirai nya sering macet
+6	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-27 14:31:53	Android	10091684736186317	Bobobox Kota Lama	EARTH SINGLE	Tbh, I don't like the morning-night shift receptionist. The way to explain it is impatient, rushed, and gives the impression of condescending to people who are trying the experience of staying here for the first time. I like the night-morning staff, friendly and cute❣️
+10	2023-05-17 0:00:00	2023-05-18 0:00:00	2023-05-27 11:50:55	Android	10041684312829785	Bobobox Pancoran	EARTH DOUBLE	nyaman,bersih,tenang.
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-27 11:26:13	Android	10081684841021296	Bobobox Kota Tua	EARTH DOUBLE	Rekomendedddd bangtt sihhh
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 10:01:26	Android	10061684571733334	Bobobox Kebayoran Baru	EARTH SINGLE	nyaman banget apalagi yg cuma butuh tempat untuk tidur, konteks lebih sering keluar daripada di pods, karena setenang dan senyaman itu buat tidur
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 9:27:26	Android	10231685074836090	Bobocabin Kintamani 	DELUXE CABIN	Good
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 8:20:11	iOS	10191684343832812	Bobocabin Cikole	Deluxe Cabin	Sukaa banget disini. Will stay there again :)
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 5:22:49	Android	10271685012674731	Bobocabin Padusan	DELUXE CABIN	Bagus sekali mantab
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 5:13:54	iOS	10351684027941767	Bobocabin Madasari Pangandaran	Executive Cabin	Recommended buat staycation ,pasti balik lagi 
+6	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 5:10:21	Android	10121685084607519	Bobobox Juanda Jakarta	EARTH DOUBLE	Kamar atas jedak jeduk
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:42:49	Android	10241685076709447	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Staff very helpful and kind during our stay, recomended
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:34:51	Android	10081685078243925	Bobobox Kota Tua	EARTH DOUBLE	mantep
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:34:06	iOS	10221684915010483	Bobobox ITC Kuningan	Earth Single	Ok
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:33:24	Android	10221685058971734	Bobobox ITC Kuningan	EARTH SINGLE	Ok
+8	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:31:25	Android	10171684982725519	Bobocabin Ranca Upas	STANDARD CABIN	Kamar tdr bantalnya tambah 1 lg, kamar mandi ditambah lg, mushola dikasih arah kiblat. Pantry kursinya tambah lg dong. Tambah fasilitas memancing di danau, ok bgt tuh.
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:29:50	iOS	10081685105153137	Bobobox Kota Tua	Sky Double	charger bermalah (kendor), suara box masih bisa tembus (kurang kedap)
+8	2023-05-25 0:00:00	2023-05-27 0:00:00	2023-05-27 4:22:29	Android	10241684154282794	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	Jalan akses
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:18:10	Android	10181685073639231	Bobobox Mega Bekasi	EARTH SINGLE	Nyaman. Terimakasih
+10	2023-05-24 0:00:00	2023-05-27 0:00:00	2023-05-27 4:14:04	Android	10221684508399725	Bobobox ITC Kuningan	EARTH SINGLE	Ok
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:13:17	Android	10191684847105387	Bobocabin Cikole	DELUXE CABIN	gooood........
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:12:49	Android	10191684946133273	Bobocabin Cikole	DELUXE CABIN	Semuanya perfect
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:06:41	Android	10111685095416126	Bobobox Tanah Abang	SKY DOUBLE	Keren
+8	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:02:13	Android	10171684940848996	Bobocabin Ranca Upas	STANDARD CABIN	Toiletbau
+10	2023-05-02 0:00:00	2023-05-03 0:00:00	2023-05-27 4:02:04	Android	10071683027264479	Bobobox Alun-Alun Bandung	EARTH DOUBLE	good
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 4:00:22	iOS	10061685116793309	Bobobox Kebayoran Baru	Earth Double	Tidurnya nyaman, harga cukup affordable
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 3:46:27	Android	10241685072854859	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Keren
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 3:35:34	iOS	10171684919305196	Bobocabin Ranca Upas	Deluxe Cabin 	Oke
+7	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 3:22:13	Android	10191684211045897	Bobocabin Cikole	EXECUTIVE CABIN	Banyak debu di sela2 dalam kamar
+9	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 3:16:52	iOS	10171684919305196	Bobocabin Ranca Upas	Deluxe Cabin 	Ok
+10	2023-05-26 0:00:00	2023-05-27 0:00:00	2023-05-27 2:42:49	Android	10121684512837774	Bobobox Juanda Jakarta	EARTH SINGLE	Nice, thankyou
+10	2023-05-25 23:00:00	2023-05-26 23:00:00	2023-05-27 2:20:26	iOS	10231685073966126	Bobocabin Kintamani 	Executive Cabin	all ceew and facikities is perfect
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-27 1:49:08	iOS	10081684893093840	Bobobox Kota Tua	Earth Single	it was nice to sleep in bobobox thanks
+9	2023-05-23 0:00:00	2023-05-26 0:00:00	2023-05-26 15:32:27	Android	10221684478440063	Bobobox ITC Kuningan	SKY DOUBLE	Thanks for the facility.. Anyway please let me know if you find my medicine left on my pods 🙏🏻
+8	2023-05-13 0:00:00	2023-05-14 0:00:00	2023-05-26 14:30:34	Android	10171680796167566	Bobocabin Ranca Upas	STANDARD CABIN	Colokan kamar longgar dan kamar agak berbau pengap..
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 11:34:14	iOS	10061685031316404	Bobobox Kebayoran Baru	Earth Double	good 
+8	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-05-26 8:56:14	iOS	10081683808289997	Bobobox Kota Tua	Sky Double	AC kamar kurang dingin, AC ruang makan bahkan ga berasa
+8	2023-05-19 0:00:00	2023-05-20 0:00:00	2023-05-26 7:23:47	iOS	10241684303179136	Bobocabin Puncak Gunung Mas	Deluxe Cabin	View teras cabin kurang bagus  Semoga ga dapet cabin no 18 lagi
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 7:21:24	Android	10221684989305794	Bobobox ITC Kuningan	EARTH DOUBLE	udah berkali kali kesini,nyaman banget dan deket kantor hehehe
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 6:07:02	iOS	10001685009794187	Bobobox Paskal	Sky Double	Bgus
+8	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 5:27:42	Android	10241684991118943	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Kalo ada arena bermain untuk anak pasti lebih mantul jadi anak ngga bosen dikamar bisa bermain diljar
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 5:23:20	Android	10071685007662199	Bobobox Alun-Alun Bandung	EARTH SINGLE	Bagus kamar nya
+8	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 5:10:06	iOS	10191684760043021	Bobocabin Cikole	Deluxe Cabin	Kunci manual dari dalam
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 5:03:16	iOS	10131684949058221	Bobobox Malioboro	Earth SIngle	niceee and amazing
+8	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 5:01:58	iOS	10171684995291752	Bobocabin Ranca Upas	Deluxe Cabin 	Toiletnya bocor 
+10	2023-05-24 23:00:00	2023-05-25 23:00:00	2023-05-26 5:00:43	iOS	10231684855621037	Bobocabin Kintamani 	Executive Cabin	bagus enak nye yak terbaik bobocabin
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:58:16	iOS	10141685032347595	Bobobox Slamet Riyadi Solo	Earth Double	Good place, maybe you can replace the old bed with the new one  overall, the place is good and value for money
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:57:31	iOS	10251684996407291	Bobocabin Coban Rondo Malang	Deluxe Cabin	a
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:54:10	iOS	10061683640045410	Bobobox Kebayoran Baru	Earth Double	thank u for 1 night 
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:53:22	Android	10171684979694103	Bobocabin Ranca Upas	DELUXE CABIN 	Ok
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:43:29	iOS	10231684765607349	Bobocabin Kintamani 	Deluxe Cabin	seru dan pelayanannya ramah. Tempatnya nyaman dan csnya fast respon. Makanannya enak, tempatnya asri seperti di alam. pokoknya recommended buat kalian yang mencari tempat nuansa alam
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:13:35	Android	10171685004368305	Bobocabin Ranca Upas	STANDARD CABIN	EXCELLENT!
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 4:09:51	Android	10181684940847276	Bobobox Mega Bekasi	EARTH DOUBLE	Tiap kali bepergian selalu pastikan ada Boboboxnya. Dengan harga yg menurut saya murah, pelayanan & fasilitasnya sangat baik dan sejauh ini selalu memuaskan (di Bobobox beberapa kota yg saya pernah singgahi.). Tempat yg nyaman, bersih, dan Bobobox di Mega Bekasi dalam Mall jadi bisa cari makan dan keperluan darurat dgn mudah. Pertahankan dan makin ramai pelanggan ya Bobobox. Terima kasih banyak.
+8	2023-05-24 23:00:00	2023-05-25 23:00:00	2023-05-26 3:55:11	iOS	10231683901177786	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Good experience!!!
+10	2023-05-24 23:00:00	2023-05-25 23:00:00	2023-05-26 3:53:22	iOS	10231685004930321	Bobocabin Kintamani 	Deluxe Cabin	Everything here was good and warm welcome to customer.. They also have a nice trip package to see mt batur and surrounding area..
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 3:47:29	iOS	10351683548854727	Bobocabin Madasari Pangandaran	Deluxe Cabin	We love to stay in this cabin coz we can see beach view with quite vibes from 
+10	2023-05-24 23:00:00	2023-05-25 23:00:00	2023-05-26 3:37:41	iOS	10231685015251891	Bobocabin Kintamani 	Deluxe Cabin	Amazing place. Facilities are all top notch 
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 3:26:59	Android	10061684931500174	Bobobox Kebayoran Baru	EARTH SINGLE	Great experience
+7	2023-05-23 0:00:00	2023-05-26 0:00:00	2023-05-26 3:09:02	Android	10061684850888667	Bobobox Kebayoran Baru	SKY SINGLE	Kebetulan posisi deket sm dispenser, jd banyak yg lewat. Pas ada yg lewat pasti berasa bgt tuh agak goyang. Selain itu, ada info cemilan di atas dispenser, tp ga diinfo gmn cara pesen nya
+10	2023-05-24 23:00:00	2023-05-25 23:00:00	2023-05-26 2:59:01	iOS	10231684646867669	Bobocabin Kintamani 	Deluxe Cabin	Kamar mandi agak rembes, sisanya sudah baik
+5	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-05-26 2:51:46	iOS	10041684575913203	Bobobox Pancoran	Earth Double	staff disana kurang ramah, kamar mandi jg engap banget.. ga kayak kebayoran. sisanya aman sih
+9	2023-05-19 0:00:00	2023-05-20 0:00:00	2023-05-26 2:25:41	iOS	10061684508891679	Bobobox Kebayoran Baru	Earth Double	Dulu sempet agak gak bagus maintenancenya teruama di toilet, sekarang udh lebih bagus
+9	2023-05-24 23:00:00	2023-05-25 23:00:00	2023-05-26 2:15:16	iOS	10231683896066029	Bobocabin Kintamani 	Deluxe Cabin	The view from the room is amazing, the stay was pleasant
+7	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 2:13:01	iOS	10191684660709581	Bobocabin Cikole	Deluxe Cabin	Noise pollution from the street  
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 1:50:05	Android	10231675249970923	Bobocabin Kintamani 	DELUXE CABIN	The mattras a litlle bit hard, but the view was amazing
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 1:48:03	Android	10231675249970923	Bobocabin Kintamani 	DELUXE CABIN	Our experiance was so wonderfull, the staff (Yesi and Antoni) was verry helpfull,
+7	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-05-26 1:47:43	Android	10061684413227332	Bobobox Kebayoran Baru	EARTH SINGLE	Buang air kecil susah cebok pake air
+10	2023-05-03 0:00:00	2023-05-04 0:00:00	2023-05-26 1:40:11	iOS	10041683107235962	Bobobox Pancoran	Earth Double	Nice
+10	2023-05-24 0:00:00	2023-05-26 0:00:00	2023-05-26 1:15:54	iOS	10031684899274397	Bobobox Dago	Earth Double	Great
+10	2023-05-25 0:00:00	2023-05-26 0:00:00	2023-05-26 1:07:18	iOS	10031684916678935	Bobobox Dago	Earth Double	good
+9	2023-05-22 0:00:00	2023-05-24 0:00:00	2023-05-26 0:45:08	iOS	10111684556111726	Bobobox Tanah Abang	Earth Single	The internet was so slow
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-25 17:49:55	iOS	10121684856382252	Bobobox Juanda Jakarta	Sky Double	Pelayanan baik dan ramah, fasilitas bersih
+3	2023-04-25 0:00:00	2023-05-25 0:00:00	2023-05-25 15:25:11	Android	10151680738556	Boboliving Pancoran	CO-LIVING EARTH	Pod 6 worst ever, udh berisik sebelah air, minta dibetulin speaker sampe sebulan ga dikerjain juga. Mau pindah pod ga bisa. Padahal sebelum sebelumnya di pod lain nyaman aja
+10	2023-05-13 0:00:00	2023-05-14 0:00:00	2023-05-25 14:40:56	Android	10001683951404689	Bobobox Paskal	SKY DOUBLE	MANTAP IS THE BEST
+7	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 11:21:02	Android	10071684938991799	Bobobox Alun-Alun Bandung	EARTH DOUBLE	tolong pihak manajemen, untuk parkir mobilnya bisa dipikirkan lagi ya.
+10	2023-05-07 0:00:00	2023-05-08 0:00:00	2023-05-25 10:47:05	iOS	10181683303727417	Bobobox Mega Bekasi	Earth Double	no problem,no way
+1	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 10:41:16	Android	10081682434691490	Bobobox Kota Tua	SKY DOUBLE	SAYANGNYA GAK BISA DI RESCHEDULE DAN DI REFUND DANANYA JIKA CANCEL ATAU GAK BISA HADIR, PARAH!
+10	2023-05-14 0:00:00	2023-05-15 0:00:00	2023-05-25 10:35:37	Android	10001684035296191	Bobobox Paskal	EARTH DOUBLE	Wifi
+10	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-25 10:35:24	Android	10071684648450354	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Wifi
+9	2023-05-23 0:00:00	2023-05-25 0:00:00	2023-05-25 10:29:35	iOS	10061684805658572	Bobobox Kebayoran Baru	Earth Single	speaker tidak menyala dan pengaturan ac lepas
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 10:19:43	Android	10191684821579182	Bobocabin Cikole	DELUXE CABIN	Tempat super nyaman, best place untuk tenangkan pikiran.  Pelayanan sangat baik, ramah..
+9	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-25 10:08:43	iOS	10121684843509650	Bobobox Juanda Jakarta	Sky Single	Good
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-25 9:31:03	Android	10031684813873867	Bobobox Dago	EARTH DOUBLE	Keren
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 7:44:21	iOS	10091684860449431	Bobobox Kota Lama	Earth Single	Great location
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 6:58:27	Android	10061684898113974	Bobobox Kebayoran Baru	SKY DOUBLE	thanks for your hospitality, I'm glad this is the warmest hospitality I've ever seen in hotel. it's kinda nice to stay here and everything is good enough   thanks.
+10	2023-05-22 0:00:00	2023-05-25 0:00:00	2023-05-25 5:09:03	Android	10001684478307779	Bobobox Paskal	SKY DOUBLE	Gg
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 5:08:09	iOS	10191684510706992	Bobocabin Cikole	Deluxe Cabin	Keren banget pelayanannya luvv bangettt
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 5:06:24	Android	10271684681500422	Bobocabin Padusan	DELUXE CABIN	Nyaman
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 5:04:13	iOS	10241684859001670	Bobocabin Puncak Gunung Mas	Deluxe Cabin	kurang guling
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 4:59:56	Android	10251684885425884	Bobocabin Coban Rondo Malang	DELUXE CABIN WITH VIEW	Bagus smoga bisa balik lg
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 4:55:45	Android	10031684582124263	Bobobox Dago	SKY DOUBLE	Pelayanan memuaskan
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 4:51:43	Android	10351684827255662	Bobocabin Madasari Pangandaran	DELUXE CABIN	Very comfortable place. Truly hidden gem. And also has a good service especially to Miss Dian, she is very helpfull and warm. Thank you so much. I'll be back later for sure.
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 4:27:20	Android	10351684926522411	Bobocabin Madasari Pangandaran	DELUXE CABIN	Thank you pokona recommended banget deh
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 4:24:35	Android	10201684912471217	Bobocabin Signature Toba	DELUXE CABIN	Utk makanan bisa ditingkatkan lagi rasa dan tampilan masakannya. Utk cabin dan fasilitasnya semuanya oke. 👍
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 3:51:21	Android	10041684500234829	Bobobox Pancoran	EARTH DOUBLE	Well done
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 3:26:48	iOS	10111684964243934	Bobobox Tanah Abang	Earth Double	Amaziiinggg 
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 3:19:04	Android	10241684814324050	Bobocabin Puncak Gunung Mas	DELUXE CABIN	Good
+8	2023-05-23 23:00:00	2023-05-24 23:00:00	2023-05-25 3:12:59	iOS	10231679548882769	Bobocabin Kintamani 	Executive Cabin	Gantungan baju, sprei kurang bersih.
+9	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 2:44:16	Android	10091684862456775	Bobobox Kota Lama	EARTH SINGLE	jaringan wifi sering lambat koneksi
+7	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 2:21:01	Android	10231684241518984	Bobocabin Kintamani 	DELUXE CABIN	The bed was too hard.
+10	2023-05-23 23:00:00	2023-05-24 23:00:00	2023-05-25 2:14:45	iOS	10231684884439350	Bobocabin Kintamani 	Executive Cabin	Niceeeeee 
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 1:48:46	Android	10201684731212698	Bobocabin Signature Toba	DELUXE CABIN	Terbaik
+8	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-25 1:06:38	Android	10121677210951407	Bobobox Juanda Jakarta	SKY DOUBLE	Stinkem enorm
+10	2023-05-24 0:00:00	2023-05-25 0:00:00	2023-05-24 23:39:57	Android	10271681887051639	Bobocabin Padusan	DELUXE CABIN	Tolong lebih ditingkatkan lagi kebersihannya. Air dari tempat kamar mandi rembes keluar, sehingga banyak menggenang sampai masuk ke kamar. Kemudian, penunjuk arahnya tolong lebih diperjelas dan diperbesar.
+10	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-24 17:59:29	iOS	10091684471396763	Bobobox Kota Lama	Sky Double	Lantai agak licin
+6	2023-05-19 0:00:00	2023-05-20 0:00:00	2023-05-24 15:53:59	iOS	10061684472492215	Bobobox Kebayoran Baru	Sky Single	Area parkir motor bisa dibuat lebih dekat aksesnya. Bisa lewat lift atau yg lain. Kalau jauh, pengunjung sudah capek ingin istirahat masih repot jalan dari area parkir ke hotel. Sama untuk ketersediaan barang yg dijual di hotel bisa dibuat lebih beragam. Hotel jauh dari akses belanja seperti indomart jadi nilai jual kalau mau jual barang atau kebutuhan. Misal pembalut wanita, sabun, dll
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 15:50:40	Android	10031684813873867	Bobobox Dago	EARTH DOUBLE	great experience!
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-24 13:57:07	iOS	10351682674092197	Bobocabin Madasari Pangandaran	Executive Cabin	great
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-24 13:28:15	iOS	10041684679211878	Bobobox Pancoran	Earth Double	good
+8	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-24 13:26:41	Android	10081684426835126	Bobobox Kota Tua	SKY DOUBLE	Recommended room for stay cation.
+10	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-24 13:04:11	Android	10171684474405633	Bobocabin Ranca Upas	STANDARD CABIN	Kebagian yang paling atas aga ngeri sedikit 🔥🔥
+7	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 12:04:30	iOS	10071684866766284	Bobobox Alun-Alun Bandung	Sky Double	Jauh bgt akses parkir mobilnya huhu
+9	2023-05-21 0:00:00	2023-05-23 0:00:00	2023-05-24 11:45:25	iOS	10251683442094546	Bobocabin Coban Rondo Malang	Deluxe Cabin with View	Makanan lokal seperti nasi goreng dan indomie terasa hambar. Untuk daging bbq enak
+10	2023-05-18 0:00:00	2023-05-19 0:00:00	2023-05-24 11:09:27	Android	10081684393759476	Bobobox Kota Tua	SKY DOUBLE	Ok
+8	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 10:26:16	Android	10261684840292334	Bobocabin Baturraden	DELUXE CABIN	Air panas tidak cukup utk 2 orang dan waktu tunggunya cukup lama utk jadi panas kembali  Sprei tidak bersih, ada bekas rambut orang dan tetesan noda  Ac sulit di setel dari remotenya
+8	2023-05-22 0:00:00	2023-05-24 0:00:00	2023-05-24 8:03:29	Android	10191684626202241	Bobocabin Cikole	DELUXE CABIN	Pengalaman saya semuanya oke, hanya saja toilet kmrn keran nya jebol, jdi toilet saya banjir, airnya kemana mana sampe ke wilayah kamar, maintenance nya pun tidak ada di tempat, harus menunggu jam 10 baru datang,   Malamnya saya order BBQ dgn vegetables steamboat tpi stock kosong, pdhal kami pgn bgt BBQ an..   Klo malam terdengar suara orng wara wiri dan mengobrol, ruangannya tidak kedap suara.
+8	2023-05-21 0:00:00	2023-05-22 0:00:00	2023-05-24 8:02:53	Android	10181684481796246	Bobobox Mega Bekasi	EARTH DOUBLE	fun
+5	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 7:58:32	iOS	10191684694118908	Bobocabin Cikole	Deluxe Cabin	Terlalu banyak extra charge dan harganya tidak sesuai kesepakatan awal contohnya seperti arga api unggung bilangnya 15k tapi jadinya 35k , tidak di kasih sandal  
+9	2023-05-14 0:00:00	2023-05-15 0:00:00	2023-05-24 7:37:37	Android	10211683545965250	Bobobox Alun-Alun Malang	SKY DOUBLE	I love how clean this place is. The room itself, the corridors, the common space, the shower room & toilet, all of them were so clean!
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 6:33:59	Android	10041684834457463	Bobobox Pancoran	SKY DOUBLE	Yes
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:53:14	Android	10191684806037073	Bobocabin Cikole	DELUXE CABIN	Kurang entertainment music (public speaker)
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:48:43	iOS	10221684489117635	Bobobox ITC Kuningan	Earth Single	Ok
+9	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:48:15	Android	10071683524895996	Bobobox Alun-Alun Bandung	EARTH DOUBLE	Good
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:47:10	Android	10271684821533764	Bobocabin Padusan	EXECUTIVE CABIN	Comfort
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:40:44	Android	10181684832285835	Bobobox Mega Bekasi	EARTH DOUBLE	Thank you Mas Wiwin for helping me this morning.
+9	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:39:42	Android	10231684821830131	Bobocabin Kintamani 	DELUXE CABIN	Terima kasih untuk pengalamannya  Semua sesuai espektasi hanya saja jalan menuju hotelnya masih kurang bagus tapi overall semua ok  Akan kembali lgi kesini lain hari
+7	2023-05-22 0:00:00	2023-05-24 0:00:00	2023-05-24 4:36:00	iOS	10171684587224197	Bobocabin Ranca Upas	Deluxe Cabin 	Makanan lebi di tingkatkan :)
+10	2023-04-24 0:00:00	2023-04-26 0:00:00	2023-05-24 4:30:25	iOS	10201674910555119	Bobocabin Signature Toba	Deluxe Cabin	World class healing
+7	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:30:19	Android	10191684682068055	Bobocabin Cikole	DELUXE CABIN	Lokasi lobby yg naik ke atas mempersulit saya yang sedang sakit di bagian ankle kiri, kemudian semua makanan harus masak sendiri sehingga tdk begitu nyaman. Untuk ruang kamar, lampunya tdk begitu terang, dan perlu diperhatikan kebersihan kabinnya dari serangga
+8	2023-05-22 23:00:00	2023-05-23 23:00:00	2023-05-24 4:26:40	iOS	10231684822465586	Bobocabin Kintamani 	Deluxe Cabin	Nyaman bgt dingin bgt pas nginep disini kebetulan lagi gempa kurangnya pas siang aja si panas bgt
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 4:16:12	Android	10221684588101091	Bobobox ITC Kuningan	SKY DOUBLE	Ok
+10	2023-05-22 23:00:00	2023-05-23 23:00:00	2023-05-24 4:00:56	iOS	10231683511897240	Bobocabin Kintamani 	Deluxe Cabin	Pengalaman yang sangat luar biasa! 
+9	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 3:59:32	Android	10071684735174880	Bobobox Alun-Alun Bandung	SKY DOUBLE	It was a very cool and one of a kind experience. Definitely a must try!
+8	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 3:37:03	iOS	10111684819036251	Bobobox Tanah Abang	Sky Single	Sekarang Aplikasi sering log out sendiri, jadi ketika ingin buka barcode harus log in terus menerus. Ini agak merepotkan. 
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 3:35:28	Android	10221684838941103	Bobobox ITC Kuningan	SKY DOUBLE	Mantul ber
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 3:10:26	Android	10241684837192833	Bobocabin Puncak Gunung Mas	EXECUTIVE CABIN	kerreen
+8	2023-05-11 0:00:00	2023-05-12 0:00:00	2023-05-24 3:10:07	Android	10221683821794205	Bobobox ITC Kuningan	SKY DOUBLE	It was very nice to stay at bobobox for my first time last month.. It was very clean n comfort room there.
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 3:01:05	Android	10071684822010442	Bobobox Alun-Alun Bandung	SKY DOUBLE	Bagussss
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 2:50:46	Android	10121684822724577	Bobobox Juanda Jakarta	EARTH SINGLE	Receptionis sangat membantu
+7	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 2:44:13	Android	10331682482590755	Bobocabin Ubud	DELUXE CABIN HOT TUB	Jalanya jauh. Sisanya 100, pelayanan sangat ramah dan excelent
+9	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-24 2:41:13	Android	10271684823901525	Bobocabin Padusan	DELUXE CABIN	Good
+9	2023-05-22 23:00:00	2023-05-23 23:00:00	2023-05-24 1:42:15	iOS	10231684822433518	Bobocabin Kintamani 	Deluxe Cabin	Pemandangan dan fasilitas sangat bagus.  Beberapa serangga masuk dalam kamar. Pintu showe tidak rapat, air merembes. Yg lain sudah oke
+9	2023-05-22 0:00:00	2023-05-24 0:00:00	2023-05-24 0:39:07	Android	10231682436680970	Bobocabin Kintamani 	DELUXE CABIN HOT TUB	There are several things need to improve. 1. the access to kintamani bobocabin need to upgrade. 2. Can be put into consideration to have toddler friendly meal, since it is quite difficult to go outside the bobocabin if you don't drive any vehicle 3. Run out of mineral water and don't restock in time 4. Staff need to be trained again.  But overall staying experience was good. Thanks bobocabin
+10	2023-05-18 0:00:00	2023-05-19 0:00:00	2023-05-23 23:57:00	Android	10121684377314484	Bobobox Juanda Jakarta	SKY SINGLE	Aksesnya enak, karena dekat stasiun juanda dan halte TJ. Kurangnya mungkin karena ada di lt. 3 dan lt. Bawahnya kosong jadi kalau perempuan pulang malam agak seram. Kamar mandi bersih, pods bersih, overall oke sih nyaman
+10	2023-05-23 0:00:00	2023-05-24 0:00:00	2023-05-23 21:03:05	Android	10271684743548397	Bobocabin Padusan	DELUXE CABIN	Beautifull place
+10	2023-05-12 0:00:00	2023-05-14 0:00:00	2023-05-23 15:37:02	Android	10141683858947185	Bobobox Slamet Riyadi Solo	SKY SINGLE	The toilets on second floor on maintance
+9	2023-05-05 0:00:00	2023-05-06 0:00:00	2023-05-23 13:55:17	Android	10181683258011953	Bobobox Mega Bekasi	EARTH DOUBLE	Everythingg love it
+8	2023-05-20 0:00:00	2023-05-21 0:00:00	2023-05-23 11:45:32	iOS	10001683719003194	Bobobox Paskal	Earth Double	Bagus dan bersih. Kmren juga dibolehkan nitip barang sebelum cek in jam 2 siang. Dekat dengan oleh2 kartika sari dan stasiun Bandung. Mantap
+8	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 10:05:18	Android	10081684742369557	Bobobox Kota Tua	SKY SINGLE	Kalo bisa beli makan pake cash juga bisain, sama fasilitas air panas buat makan minum Adain, sama kompor kalo bisa juga Adain, kalo bisa juga fasilitas smoking area Adain, sama tempat buat duduk2, sama sandal kalo bisa dibaruin modelnya jangan tipis karena susah makenya
+8	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 8:09:54	iOS	10141684745881344	Bobobox Slamet Riyadi Solo	Earth Double	The floor is slippery 
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 6:49:51	iOS	10241684738666725	Bobocabin Puncak Gunung Mas	Deluxe Cabin	Ok
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 5:08:26	Android	10171684417127486	Bobocabin Ranca Upas	STANDARD CABIN	Oke
+9	2023-05-20 23:00:00	2023-05-22 23:00:00	2023-05-23 5:00:47	iOS	10231684579074554	Bobocabin Kintamani 	Executive Cabin	Good view, need extra acces to the place but its worth to pay , ac not so cold when the day 
+8	2023-05-12 0:00:00	2023-05-13 0:00:00	2023-05-23 4:44:52	iOS	10331683635715659	Bobocabin Ubud	Deluxe Cabin Hot Tub	Nicee view, but cabin to another cabin so far, 
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 4:43:58	Android	10171683849697214	Bobocabin Ranca Upas	DELUXE CABIN 	Sangat menyenangkan menginap disini, stafnya ramah2, kamarnya nyaman, perlengkapan kamar mandi lengkap, bersih, dingin banget udara disini.. terimakasih bobocabin nexts nginep sini lagi pokoknya😁👍
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 4:40:30	Android	10211684750291370	Bobobox Alun-Alun Malang	EARTH DOUBLE	Untuk toilet lebih baik menggunakan bidet
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 4:40:05	iOS	10191684745186620	Bobocabin Cikole	Deluxe Cabin	Makanannya jangan mahal2 banget dong ka :( Kalo bisa ada paket bundling dengan breakfast
+10	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 4:18:50	iOS	10331684725941674	Bobocabin Ubud	Deluxe Cabin Hot Tub	Great concept and execution of a cabin log experience. The open jacuzzi was perfect, loved it.
+10	2023-05-20 23:00:00	2023-05-22 23:00:00	2023-05-23 4:15:08	iOS	10231684561060916	Bobocabin Kintamani 	Deluxe Cabin	Akses jalannya yg gak bagus tapi terbayarkan oleh tempat nya sangat bagus dan nyaman
+7	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 4:08:20	iOS	10231678865406606	Bobocabin Kintamani 	Deluxe Cabin Hot Tub	Listening to special request and details, I asked for the honey moon package cake to say happy birthday but it said happy honey moon and the flower pedals also said honey moon. Our steam boat food there was a small dead roach in it, the vegetables were frozen not fresh. Our steak was still in the package and there were no scissors to open the package so it wasnt easy. There were no steak knives.
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 4:04:09	Android	10171681876914964	Bobocabin Ranca Upas	STANDARD CABIN	Toilet bersih
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 4:02:31	Android	10081684678036805	Bobobox Kota Tua	EARTH SINGLE	Nice place,sleep so well,kind staff,the ac cool,the toilet clean..
+8	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 3:35:12	Android	10091684738958757	Bobobox Kota Lama	EARTH SINGLE	Baik
+10	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 3:28:56	iOS	10231684715841305	Bobocabin Kintamani 	Deluxe Cabin	Tempat nyaman
+9	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 3:28:21	iOS	10231682103779397	Bobocabin Kintamani 	Deluxe Cabin	untuk pengalamab menginap cukup seru krna bisa buat api unggun, bbq, viewnya oke dan ada communal area untuk saran, coba di area kitchen ada sabun buat cuci tangan juga peralatan makan sperti sendok garpu piring bakal lebih memudahkan lagi sama kebetulan kamar nginap lampunya rusak tapi selebihnya semua oke
+10	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 3:28:06	iOS	10231684715841305	Bobocabin Kintamani 	Deluxe Cabin	Tempatnya nyaman, kamar bersih dan wangi. staf ramah. Pemandangan sangat indah. 
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 3:27:28	Android	10231683974572379	Bobocabin Kintamani 	DELUXE CABIN	Nice vibes, simple, clean and comfortable room. Really nice staff
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 3:26:14	Android	10081684764067727	Bobobox Kota Tua	SKY DOUBLE	Tempatnya oke banget
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 3:22:57	Android	10211684750935179	Bobobox Alun-Alun Malang	SKY DOUBLE	good
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 3:16:36	Android	10021684737544842	Bobobox Cipaganti	SKY SINGLE	Bobobox disini parkiran luas , nyaman untuk parkir kendaraan All in cozy bersih rapi, kamar untuk mandi pria ada 2 , toilet 2 wastafel 2 dan 1 untuk buang air kecil, Ac dingin banget bisa diatur manual dengan cara memutar lubang angin di bagian atas dalam kamar pods, tetap dingin walaupun ac udah ditutup. Selimut kurang tebal, kasur keras, bantal sangat empuk. Kekurangan lain kamar tdk kedap suara
+9	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 3:15:58	Android	10031683981515465	Bobobox Dago	EARTH DOUBLE	cukup nyaman & worth it
+9	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 3:08:44	iOS	10231683446010594	Bobocabin Kintamani 	Deluxe Cabin	Bagus pemandangannya 
+10	2023-05-22 0:00:00	2023-05-23 0:00:00	2023-05-23 2:35:11	Android	10171683638353171	Bobocabin Ranca Upas	STANDARD CABIN	Nyaman bgt ,service excelent, view ok.
+10	2023-05-19 0:00:00	2023-05-20 0:00:00	2023-05-23 2:29:02	iOS	10171683473367922	Bobocabin Ranca Upas	Executive Cabin	Pengalaman menginap di bobocabin sangat memuaskan! Semua pegawainya sangat sigap dan informatif dari resepsionis, bell boy, security, pengantar makanan, pengantar api unggun dan cleaning service (mas Warlan yang sudah bantu foto2 saat kami disana). Thank you for the hospitality, definitely will come back again.
+10	2023-05-15 0:00:00	2023-05-23 0:00:00	2023-05-23 2:23:22	iOS	10121684079336679	Bobobox Juanda Jakarta	Sky Single	Good
+10	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 2:18:10	iOS	10231684580484765	Bobocabin Kintamani 	Deluxe Cabin	Very good
+10	2023-04-29 0:00:00	2023-04-30 0:00:00	2023-05-23 2:11:58	iOS	10091682685380108	Bobobox Kota Lama	Earth Double	Nyaman 
+10	2023-04-29 0:00:00	2023-04-30 0:00:00	2023-05-23 1:55:34	iOS	10141682765314568	Bobobox Slamet Riyadi Solo	Sky Double	Lokasi berada di tengah kota dan bangunannya klasik juga. Akses mudah dan mau kemana mana gampamg banget. Hospitality dari resepsionisnya juga bagus banget. Mantap
+7	2023-05-19 0:00:00	2023-05-23 0:00:00	2023-05-23 1:45:12	Android	10211683869649355	Bobobox Alun-Alun Malang	SKY DOUBLE	Everything was ok until the last day I was about to get early check out suddenly I've been locked inside my own pod (47) I tried to contact the receptionist but no one answer whatsoever. I look up bobobox phone Number in google, I called them and asked them to fix it cause I have train to catch. After they open my pod I was late, my train had already departure, I had to buy new ticket!!!!!!
+9	2023-05-21 23:00:00	2023-05-22 23:00:00	2023-05-23 1:13:18	iOS	10231683346100580	Bobocabin Kintamani 	Deluxe Cabin	Oke
+10	2023-05-12 0:00:00	2023-05-13 0:00:00	2023-05-22 22:53:42	iOS	10141683807696386	Bobobox Slamet Riyadi Solo	Sky Double	nice
+10	2023-05-20 0:00:00	2023-05-22 0:00:00	2023-05-22 17:12:47	iOS	10331684551958578	Bobocabin Ubud	Deluxe Cabin	Would be better if we can order food/service in a better UI instead of chatting. For example, selecting from listing. And it would be great if bobocabin ubud has rice planting activity for guests.

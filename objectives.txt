@@ -1,0 +1,38 @@
+1. Collect the top 5 positive reviews and top 5 negative reviews of the products
+    Bobocabin and Bobohotel based on reviews from OTA platforms, Google
+    Reviews, Apps Reviews, etc. You can present the information in an infographic
+    format:
+        1. Positive Reviews for Bobocabin:
+            ● Create a bar chart showing the number of positive reviews
+            received for Bobocabin from different sources (OTA, Google,
+            Apps, etc.).
+            ● Use icons or symbols to represent the overall satisfaction level
+            (e.g., smiling faces) and show the percentage of positive reviews.
+
+        2. Negative Reviews for Bobocabin:
+            ● Use a similar bar chart to represent the number of negative
+            reviews received for Bobocabin.
+            ● Again, use icons or symbols to represent dissatisfaction (e.g.,
+            frowning faces) and show the percentage of negative reviews.
+
+        3. Positive Reviews for Bobohotel:
+            ● Repeat the process for Bobohotel, creating a bar chart for
+            positive reviews received from various sources.
+            ● Use appropriate icons or symbols to represent satisfaction and
+            show the percentage of positive reviews.
+
+        4. Negative Reviews for Bobohotel:
+            ● Similarly, create a bar chart to represent the number of negative
+            reviews received for Bobohotel.
+
+            [CONFIDENTIAL INFORMATION]
+
+            ● Use icons or symbols to represent dissatisfaction and show the
+            percentage of negative reviews.
+
+        5. Overall Comparison:
+            ● Create a side-by-side comparison chart to compare the overall
+            positive and negative reviews for both Bobocabin and
+            Bobohotel.
+            ● Use a combination of icons, colors, or symbols to represent the
+            feedback received for each product.
